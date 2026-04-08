@@ -15,8 +15,7 @@ Pursuing Artificial Intelligence and Data Science @ VSB Engineering College,Karu
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Dharineesh's GitHub stats]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
-
+![Dharineesh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)
 [![Leetcode Stats]()
 
 [![Dharineesh's github activity graph]()
