@@ -1,93 +1,118 @@
-# Hi there, I'm Dharineesh V 👋
-**Aspiring Software Engineer | AI & Data Science | Java Developer**
+<!-- ========================= HERO SECTION ========================= -->
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:dharineeshvengatesan@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Dharineesh%20V&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Java%20Full%20Stack%20%7C%20AI%20Engineer%20%7C%20LLM%20Developer&descAlign=50&descAlignY=58&animation=fadeIn"/>
 
-## 🚀 About Me
-- 🎓 Pursuing a **B.Tech in Artificial Intelligence and Data Science** at V.S.B Engineering College (Current CGPA: 8.275).
-- 💡 Passionate about transforming advanced algorithms into functional, user-centric software solutions.
-- 🛠️ Completed the **Infosys Springboard Virtual Internship 6.0** with enterprise-level project contributions.
-- 🏆 **IIT Kharagpur NPTEL Topper** in "Programming in Java" with a score of 95%.
+</div>
 
----
+<h1 align="center">
+Hi 👋 I'm Dharineesh V
+</h1>
 
-## 🛠️ Technical Stack
+<h3 align="center">
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://shields.io" alt="Java"/>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="SQL"/>
-  <img src="https://shields.io" alt="Spring Boot"/>
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-</p>
+Java Full Stack Developer • AI Engineer • LLM Explorer
 
-### AI & Systems Architecture
-<p align="left">
-  <img src="https://shields.io" alt="LLMs"/>
-  <img src="https://shields.io" alt="RAG"/>
-  <img src="https://shields.io" alt="QLoRA"/>
-  <img src="https://shields.io" alt="OOP/OOD"/>
-</p>
+</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Spring+Boot+Developer;LLM+%7C+RAG+%7C+QLoRA;Always+Learning+Something+New+🚀"/>
+
+</div>
 
 ---
 
-## 📂 Highlighted Projects (Click to expand)
+<div align="center">
 
-<details>
-<summary>🧠 <b>AI Based Diet Plan Generator</b></summary>
-<br>
+### 🌐 Connect with Me
 
-- **Tech Stack:** Llama-3.3-70B, RAG pipeline, Context Caching.
-- **Impact:** Created a Clinical AI system mapping medical reports into a Unified Context Window. 
-- **Optimization:** Reduced plan generation latency by **40%** via parallelized API chunking.
-</details>
+<a href="https://github.com/Dharineesh-17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<details>
-<summary>🤖 <b>Agentic Customer Support Agent</b></summary>
-<br>
+<a href="https://linkedin.com/in/dharineesh-v-sd17">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- **Tech Stack:** Agentic Workflows, AI Copilot, System Design.
-- **Impact:** Unified disparate enterprise knowledge bases and customer ticketing ecosystems.
-- **Optimization:** Accelerated support tracking loops and boosted automated resolution speeds by **25%**.
-</details>
+<a href="mailto:dharineeshvengatesan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 Live Interactive Metrics
+<div align="center">
 
-<p align="center">
-  <img src="https://vercel.app" alt="Dharineesh's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Interactive Activity Map
+# ⚡ AI Engineer Dashboard
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
-</picture>
+```text
+┌────────────────────────────────────────────┐
+│ SYSTEM STATUS                              │
+├────────────────────────────────────────────┤
+│ Name      : Dharineesh V                   │
+│ Role      : AI Engineer                    │
+│ Education : B.Tech AI & DS                 │
+│ Backend   : Java • Spring Boot             │
+│ AI Stack  : LLM • RAG • QLoRA              │
+│ Database  : SQL                            │
+│ Status    : 🟢 Available to Learn & Build  │
+└────────────────────────────────────────────┘
+```
 
 ---
 
-## 📜 Certifications
-- **NPTEL (IIT Kharagpur):** Programming in Java *(95% Course Topper)*
-- **Infosys Springboard:** AI‑Powered Personalized Diet Recommendation System Based on Medical Reports
-- **Udemy:** AI Engineer Specialist (LLM Engineering, QLoRA, RAG Pipelines)
+## 🧠 About Me
+
+```yaml
+Name: Dharineesh V
+
+Education:
+  B.Tech Artificial Intelligence & Data Science
+
+Current Focus:
+  - Spring Boot
+  - Java Backend
+  - LLM Engineering
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents
+  - System Design
+
+Interests:
+  - Building AI Applications
+  - Backend Development
+  - Open Source
+  - Problem Solving
+```
 
 ---
-<p align="center">📬 Feel free to check out my repositories or reach out on LinkedIn to talk tech!</p>
+
+## 🚀 Current Mission
+
+> 💡 Building scalable software powered by Artificial Intelligence.
+
+✔ Java Backend
+
+✔ Spring Boot
+
+✔ REST APIs
+
+✔ AI Agents
+
+✔ LangChain
+
+✔ RAG Pipelines
+
+✔ Prompt Engineering
+
+✔ System Design
+
+---
