@@ -39,10 +39,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /> &nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
 
-<!-- ========================= HARDWARE SECTION ========================= -->
-<!-- Add this right above your Stats section -->
-
-<!-- ========================= STATS SECTION ========================= -->
 ## 📊 Activity & Stats
 
 <div align="center">
