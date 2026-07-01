@@ -39,19 +39,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /> &nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
 
-<br />
-
 <!-- ========================= HARDWARE SECTION ========================= -->
-### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"/> &nbsp;
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen"/>
-
-<br />
 <!-- Add this right above your Stats section -->
-### 🧮 Most Used Languages
-<div align="center">
-  <img src="https://vercel.io" alt="Top Languages" />
-</div>
 
 <!-- ========================= STATS SECTION ========================= -->
 ## 📊 Activity & Stats
