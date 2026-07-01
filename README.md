@@ -115,4 +115,135 @@ Interests:
 
 ✔ System Design
 
+<!-- ===================================================== -->
+<!--                 TECH STACK DASHBOARD                  -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,nodejs,react,python,git,github,vscode,postman,maven&perline=5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤖 AI Stack
+
+<img src="https://img.shields.io/badge/LLM-0A66C2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QLoRA-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Dharineesh-17&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dharineesh-17&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharineesh-17&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Development Journey
+
+```text
+Java            ██████████████████████ 90%
+
+Spring Boot     ███████████████████░░ 85%
+
+SQL             ██████████████████░░░ 82%
+
+Python          ████████████████░░░░░ 75%
+
+HTML/CSS        ███████████████████░░ 85%
+
+JavaScript      ███████████████░░░░░░ 70%
+
+React           █████████████░░░░░░░░ 60%
+
+Node.js         ████████████░░░░░░░░░ 60%
+
+LLM             ███████████████████░░ 85%
+
+RAG             ██████████████████░░░ 80%
+
+QLoRA           ████████████████░░░░░ 75%
+```
+
+---
+
+<div align="center">
+
+## 💻 Current Focus
+
+| 🚀 Learning | 🎯 Building | 📚 Exploring |
+|-------------|-------------|--------------|
+| Spring Boot | AI Applications | System Design |
+| React | REST APIs | Design Patterns |
+| Docker | LLM Projects | Microservices |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"/>
+
+</div>
 ---
