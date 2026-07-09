@@ -12,7 +12,7 @@
       <h2>Hi there 👋 It's me Dharineesh</h2>
       <p>Pursuing <b>Artificial Intelligence and Data Science</b> @ VSB Engineering College, Karur.</p>
       <ul>
-        <li>🔭 Here's my <a href="https://portfolio-dharineesh.vercel.app/"><b>Portfolio Website</b></a></li>
+        <li>🔭 Here's my <a href="https://y1yss5n8e5x0-deploy.space-z.ai"><b>Portfolio Website</b></a></li>
         <li>🌱 I’m currently learning <b>DSA</b> and integrating <b>AI workflows</b></li>
       </ul>
       <h3>Social Presence</h3>
