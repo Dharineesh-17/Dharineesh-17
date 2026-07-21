@@ -38,11 +38,11 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /> &nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
 
-### 📊 Activity & Stats
+### 📊 Activity & Stats   ### 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap" alt="Dharineesh's LeetCode Stats" width="48%" />
   &nbsp;
-  ### 📊 GitHub Stats:
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Dharineesh's GitHub Activity Graph" width="48%" />
 </div>
