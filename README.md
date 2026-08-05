@@ -73,9 +73,8 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=cognizant_hands_on&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Cognizant"/>
   </a>
 </div>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
 
+<br/>
 <!-- ========================= TECH ARSENAL — CURATED ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
 
