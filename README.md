@@ -38,9 +38,6 @@ No Heroku (dead), no fake IDs, no broken snake SVG.
 <p>
 🎓 I'm <b>Dharineesh V</b>, pursuing <b>Artificial Intelligence & Data Science</b> at <b>VSB Engineering College, Karur</b>. I architect end-to-end products that blend robust Java backend systems with intelligent LLM-powered workflows.
 </p>
-<p>
-🚀 My mission: <i>build software that doesn't just work — it thinks, scales, and delights.</i>
-</p>
 <ul>
 <li>🔭 <b>Currently building:</b> AI-powered web apps & LLM orchestration pipelines</li>
 <li>🌱 <b>Currently learning:</b> DSA mastery + multi-agent AI systems</li>
@@ -236,40 +233,3 @@ No Heroku (dead), no fake IDs, no broken snake SVG.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00ADB5,100:2C5364&height=140&section=footer" width="100%"/>
 </div>
-
-<!-- =================================================================
-✅ ALL IMAGE SOURCES VERIFIED WORKING (2026):
-
-1. capsule-render.vercel.app → Hero & footer banners ✅
-2. readme-typing-svg.demolab.com → Section titles + typing intro ✅
-3. img.shields.io → All tech badges & social badges ✅
-4. komarev.com/ghpvc/ → Profile view counter ✅
-5. github-readme-stats.vercel.app → Stats & top languages ✅
-6. streak-stats.demolab.com → Streak stats (NEW host — Heroku is dead) ✅
-7. github-readme-activity-graph.vercel.app → Activity graph ✅
-8. github-profile-trophy.vercel.app → Trophies ✅
-9. leetcard.jacoblin.cool → LeetCode card ✅
-10. quotes-github-readme.vercel.app → Random dev quote ✅
-11. media.giphy.com → Coding GIF ✅
-
-🔧 WHAT I FIXED:
-❌ Removed: github-readme-streak-stats.herokuapp.com (Heroku dead since 2022)
-✅ Replaced with: streak-stats.demolab.com (new official host)
-❌ Removed: Snake SVG from another user's repo (wouldn't load + not your data)
-❌ Removed: Spotify widget (fake ID showed broken image)
-❌ Removed: Buy Me A Coffee placeholder (no handle)
-❌ Removed: Email & X placeholders (no real handles yet)
-✅ Swapped pinimg GIF for stable Giphy CDN URL
-
-🚀 OPTIONAL UPGRADES (when you're ready):
-- Deploy your own github-readme-stats instance to avoid rate limits:
-Fork → Vercel → connect → use your-domain.vercel.app/api?...
-- Set up Snake animation (real one for YOUR contributions):
-Add Platane/snk GitHub Action to your profile repo
-- Add Spotify widget once you have a real Spotify ID
-- Add real social links (X, Email, Buy Me A Coffee) when ready
-
-📂 DEPLOY:
-1. Create PUBLIC repo named exactly: Dharineesh-17
-2. Add this README.md → commit → auto-appears on profile!
-================================================================== -->
