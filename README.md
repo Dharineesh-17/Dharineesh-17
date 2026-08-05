@@ -33,10 +33,11 @@
 <br/>
 
 <!-- ========================= ABOUT ME SECTION ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=About+Me" alt="About Me"/>
+
 <table>
   <tr>
     <td valign="top" width="55%">
-      <h1>About Me</h1>
       <p>
         I'm <b>Dharineesh V</b>, a passionate developer pursuing <b>Artificial Intelligence & Data Science</b> at <b>VSB Engineering College, Karur</b>. I love building end-to-end products that blend solid engineering with intelligent systems — from Java full-stack apps to LLM-powered workflows.
       </p>
@@ -246,9 +247,12 @@
   | Quarter | Focus Area | Goals |
   |---------|-----------|-------|
   | Q1 2026 | DSA Mastery | Solve 100+ LeetCode problems (arrays, trees, graphs, DP) |
-  | Q2 2026 | Java Advanced | Master multithreading, JVM internals, design patterns |
-  | Q3 2026 | AI Agent Systems | Build 3 multi-agent LLM projects with LangChain |
-  | Q4 2026 | Cloud & Job Hunt | AWS Solutions Architect certification + land top-tier SDE / AI Engineer role |
+  | Q1 2026 | Java Advanced | Master multithreading, JVM internals, design patterns |
+  | Q2 2026 | AI Agent Systems | Build 3 multi-agent LLM projects with LangChain |
+  | Q2 2026 | System Design | Master distributed systems, caching, scalability |
+  | Q3 2026 | Open Source | Contribute to 5 major AI/Java repositories |
+  | Q3 2026 | Cloud Mastery | AWS Solutions Architect certification |
+  | Q4 2026 | Job Hunt | Land top-tier SDE / AI Engineer role |
   
 </details>
 
