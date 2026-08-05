@@ -1,8 +1,8 @@
 <!-- =================================================================
-     👑 DHARINEESH V — WORLD #1 GITHUB PROFILE
-     Inspired by Brittany Chiang, Priyanshu, Sindre Sorhus.
-     Featuring real pinned repo cards from YOUR repositories.
-     All 22+ image hosts verified live (2026).
+     👑 DHARINEESH V — WORLD #1 GITHUB PROFILE (ROUND 2)
+     Beyond-world-class. Featuring custom SVG art, 3D skyline,
+     achievement showcase, tech radar, journey timeline, and more.
+     Surpassing all AI agents & GenAI profiles worldwide.
 ================================================================== -->
 
 <!-- ========================= HERO BANNER ========================= -->
@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=30&desc=Java%20Full%20Stack%20%F0%9F%96%A5%20AI%20Engineer%20%F0%9F%96%A5%20LLM%20Developer&descAlign=50&descAlignY=50&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2&section=header" width="100%"/>
 </div>
 
-<!-- ========================= ANIMATED AVATAR + NAME ========================= -->
+<!-- ========================= TYPING INTRO ========================= -->
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2000&pause=600&color=00ADB5&center=true&vCenter=true&random=false&width=780&lines=Hey+there!+I'm+Dharineesh+%F0%9F%91%8B;Building+AI-Powered+Web+Apps+%E2%9D%A4%EF%B8%8F;Java+Full+Stack+Developer+%F0%9F%92%BB;LLM+%26+GenAI+Engineer+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+coffee+into+clean+code+%E2%98%95;Always+shipping%2C+always+learning+%E2%9A%A1" alt="Typing SVG"/>
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Followers&query=followers&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Followers"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Repos&query=public_repos&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Repos"/>
   <img src="https://img.shields.io/github/stars/Dharineesh-17?label=Stars&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Stars"/>
+  <img src="https://img.shields.io/github/actions/workflow/status/Dharineesh-17/Dharineesh-17/snake.yml?label=Snake%20CI&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Snake CI"/>
 </div>
 
 <br/>
@@ -37,8 +38,26 @@
 
 <br/>
 
+<!-- ========================= 🌟 JOURNEY TIMELINE (CUSTOM SVG) ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%9A%80+My+Journey" alt="My Journey"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/journey.svg" alt="Dharineesh's Journey Timeline" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ========================= 💻 AI PHILOSOPHY TERMINAL (CUSTOM SVG) ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%92%A1+My+Philosophy" alt="My Philosophy"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/terminal.svg" alt="AI Philosophy Terminal" width="95%"/>
+</div>
+
+<br/>
+
 <!-- ========================= ABOUT ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
 
 <table>
   <tr>
@@ -70,7 +89,7 @@
 <br/>
 
 <!-- ========================= 🚀 FEATURED PROJECTS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
 
 <br/>
 
@@ -100,7 +119,7 @@
 <br/>
 
 <!-- ========================= PROJECT HIGHLIGHTS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
 
 <table>
   <tr>
@@ -143,8 +162,26 @@
 
 <br/>
 
-<!-- ========================= TECH ARSENAL ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
+<!-- ========================= 🏆 ACHIEVEMENT SHOWCASE (CUSTOM SVG) ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%8F%86+Achievements" alt="Achievements"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/achievements.svg" alt="Achievement Showcase" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ========================= 🎯 TECH RADAR (CUSTOM SVG) ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%8E%AF+Tech+Radar" alt="Tech Radar"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/radar.svg" alt="Technical Proficiency Radar" width="85%"/>
+</div>
+
+<br/>
+
+<!-- ========================= 🛠️ TECH ARSENAL ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
 
 <div align="center">
   <h3>💻 Languages & Core</h3>
@@ -168,8 +205,8 @@
 
 <br/>
 
-<!-- ========================= GITHUB UNIVERSE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
+<!-- ========================= 📊 GITHUB UNIVERSE ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
 
 <br/>
 
@@ -182,13 +219,28 @@
 
 <div align="center">
   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharineesh-17&layout=donut-vertical&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8" alt="Languages Donut"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=0F2027&color=00ADB5&line=00ADB5&point=ffffff&area=true&area_color=00ADB5&hide_border=true&title=Contribution%20Graph&title_color=00ADB5&radius=16" alt="Activity Graph"/>
 </div>
 
 <br/>
 
+<!-- ========================= 🌃 3D CONTRIBUTION SKYLINE (CUSTOM SVG) ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=400&lines=%F0%9F%8C%83+3D+Contribution+Skyline" alt="3D Skyline"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/skyline.svg" alt="3D Contribution Skyline" width="95%"/>
+</div>
+
+<br/>
+
 <!-- ========================= ANNUAL CONTRIBUTIONS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%93%85+Annual+Contributions" alt="Annual Contributions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%93%85+Annual+Contributions" alt="Annual Contributions"/>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00ADB5/Dharineesh-17" alt="Annual Contribution Chart" width="95%"/>
@@ -197,7 +249,7 @@
 <br/>
 
 <!-- ========================= TROPHIES ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%8F%86+Achievements" alt="Achievements"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%8F%86+Trophies" alt="Trophies"/>
 
 <div align="center">
   <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies Grid" width="95%"/>
@@ -206,7 +258,7 @@
 <br/>
 
 <!-- ========================= LEETCODE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=00ADB5&radius=16&width=600" alt="LeetCode"/>
@@ -215,7 +267,7 @@
 <br/>
 
 <!-- ========================= DEV JOKE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=340&lines=%F0%9F%98%86+Dev+Joke+of+the+Day" alt="Dev Joke"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=340&lines=%F0%9F%98%86+Dev+Joke+of+the+Day" alt="Dev Joke"/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?borderColor=00ADB5&bgColor=0F2027&borderRadius=16&width=80%" alt="Random Dev Joke"/>
@@ -224,7 +276,7 @@
 <br/>
 
 <!-- ========================= DEV PHILOSOPHY ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=00ADB5&backgroundColor=0F2027,203A43,2C5364&fontWeight=600" alt="Random Dev Quote" width="80%"/>
@@ -233,7 +285,7 @@
 <br/>
 
 <!-- ========================= CURRENT FOCUS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%94%A5+Current+Focus" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%94%A5+Current+Focus" alt="Current Focus"/>
 
 <table>
   <tr>
@@ -290,34 +342,53 @@
 
 <br/>
 
-<!-- ========================= CONNECT WITH ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
-
-<div align="center">
-  <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dharineesh-v-sd17/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Dharineesh-17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/dharancode" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</div>
+<details>
+  <summary><b>💬 Click to expand — My Favorite Tech Quotes</b></summary>
+  <br/>
+  
+  > *"The best way to predict the future is to invent it."* — Alan Kay
+  
+  > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
+  
+  > *"First, solve the problem. Then, write the code."* — John Johnson
+  
+  > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+  
+  > *"AI doesn't replace engineers. It amplifies those who build it, and obsoletes those who don't."* — Dharineesh V
+  
+</details>
 
 <br/>
 
-<!-- ========================= SUPPORT ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=%E2%98%95+Support" alt="Support"/>
+<!-- ========================= CONNECT WITH ME + QR CODE ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
 
-<div align="center">
-  <a href="https://github.com/sponsors/Dharineesh-17">
-    <img src="https://img.shields.io/badge/Sponsor_Me-EB4B9A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="middle" width="70%" align="center">
+      <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/in/dharineesh-v-sd17/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://github.com/Dharineesh-17" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a><br/><br/>
+      <a href="https://leetcode.com/dharancode" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+      </a>
+      <a href="https://github.com/sponsors/Dharineesh-17">
+        <img src="https://img.shields.io/badge/Sponsor_Me-EB4B9A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
+      </a>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://y1yss5n8e5x0-deploy.space-z.ai&color=0F2027&bgcolor=ffffff&margin=10" alt="Portfolio QR Code" width="180" style="border-radius: 12px; border: 2px solid #00ADB5;"/>
+      <br/>
+      <sub><b>📷 Scan to visit my portfolio</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -327,24 +398,26 @@
 </div>
 
 <!-- =================================================================
-  👑 WORLD #1 PROFILE — COMPLETE FEATURE LIST:
+  👑 WORLD #1 PROFILE — ROUND 2 COMPLETE FEATURE LIST:
 
   ✅ Premium 8-stop gradient hero with stroke
   ✅ 7-persona typing animation (8 lines)
-  ✅ "Available for Work" status badge (recruiters love this)
+  ✅ "Available for Work" status badge
   ✅ Live dynamic JSON badges (followers, repos, stars, views)
+  ✅ Snake CI workflow status badge (NEW!)
   ✅ Snake animation eating YOUR contribution grid
+  ✅ ⭐ CUSTOM SVG: Journey Timeline (5 milestones: 2022→2026)
+  ✅ ⭐ CUSTOM SVG: AI Philosophy Terminal (mac window + quotes)
   ✅ About Me with stats card + trophies sidebar
-  ✅ ⭐ FEATURED PROJECTS — 6 real repo cards (pin cards) from YOUR repos:
-      • my-ai-diet-app (AI clinical nutrition)
-      • Lostlink (Spring Boot microservices)
-      • Query_Resolver (RAG agent)
-      • worldmonitor (real-time intelligence)
-      • AI_Support_Agent (Java autonomous agent)
-      • cognizant_hands_on (Java FSE training)
-  ✅ ⭐ PROJECT HIGHLIGHTS TABLE — detailed cards for 6 projects with descriptions
+  ✅ ⭐ Featured Projects — 6 REAL repo pin cards
+  ✅ ⭐ Project Highlights table — 6 detailed project cards
+  ✅ ⭐ CUSTOM SVG: Achievement Showcase (6 unique achievement cards)
+  ✅ ⭐ CUSTOM SVG: Tech Radar (5-axis proficiency chart)
   ✅ Skill icons grid (6 categories, themed)
-  ✅ GitHub Stats + Streak + Top Langs + Activity Graph
+  ✅ GitHub Stats + Streak + Top Langs (compact)
+  ✅ ⭐ Languages Donut chart (NEW layout!)
+  ✅ Activity Graph
+  ✅ ⭐ CUSTOM SVG: 3D Contribution Skyline (15-bar 3D chart!)
   ✅ Annual contribution chart (full year heatmap)
   ✅ Trophies grid (7-column juicyfresh)
   ✅ LeetCode live card
@@ -353,26 +426,39 @@
   ✅ Current Focus (3 cards)
   ✅ 2026 Roadmap (collapsible)
   ✅ Daily workflow (collapsible)
-  ✅ Connect section (4 platforms)
+  ✅ ⭐ Favorite Tech Quotes (collapsible) — NEW!
+  ✅ Connect section with QR code (NEW!)
   ✅ Sponsor CTA
   ✅ Mirrored 8-stop footer
 
-  📦 DEPLOY (5 minutes):
+  📦 DEPLOY (10 minutes — Round 2 setup):
 
-  STEP 1 → Profile repo
-  - Create PUBLIC repo named: Dharineesh-17
-  - Paste this code into README.md → commit
+  STEP 1 → Push the README
+  - Open Dharineesh-17/Dharineesh-17 repo
+  - Edit README.md → paste this code → commit
 
-  STEP 2 → Snake animation (WOW factor)
+  STEP 2 → Upload custom SVG assets (THE WOW FACTOR!)
+  - In your repo, create folder: assets/
+  - Upload these 4 files into assets/:
+      • journey.svg
+      • terminal.svg
+      • achievements.svg
+      • radar.svg
+      • skyline.svg
+  - Commit
+  - Now your profile shows unique custom SVGs no one else has!
+
+  STEP 3 → Set up Snake Animation
   - Create file: .github/workflows/snake.yml
   - Paste snake-workflow.yml contents
   - Commit → Actions tab → Run workflow
 
-  STEP 3 → Pin top repos (already done with pin cards above!)
+  STEP 4 → Pin top repos (already done with pin cards!)
   - Profile → Customize pins → select your 6 best repos
 
-  STEP 4 → Make sure your repos have good descriptions + topics
-  - Visit each repo → About → Add description + website + topics
+  STEP 5 → Polish your repos
+  - Each repo → About → add description + website + topics
 
-  ✅ ALL 24+ IMAGE HOSTS VERIFIED LIVE (2026)
+  ✅ ALL IMAGE HOSTS VERIFIED LIVE (2026)
+  ✅ 5 CUSTOM SVGs DESIGNED EXCLUSIVELY FOR YOU
 ================================================================== -->
