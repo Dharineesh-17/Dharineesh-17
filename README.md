@@ -55,7 +55,7 @@
       <p><b>Tech:</b> Python · RAG · LLMs · Medical AI · Clinical NLP</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🔗 <a href="https://github.com/Dharineesh-17/Lostlink">Lostlink</a></h3>
+      <h3> <a href="https://github.com/Dharineesh-17/Lostlink">Lostlink</a></h3>
       <p>A <b>production-grade microservices</b> campus lost-and-found platform built with <b>Spring Boot 3 + Spring Cloud + React</b>. Designed for organizations to digitize the traditional notice-board process at scale.</p>
       <p><b>Tech:</b> Java · Spring Boot 3 · Spring Cloud · React · Microservices</p>
     </td>
