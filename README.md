@@ -46,19 +46,6 @@
 </table>
 
 <br/>
-
-<!-- ✨ QUICK FACTS GRID — More personality than generic bullet list ✨ -->
-<table>
-  <tr>
-    <td align="center" width="25%"><b> Education</b><br/><sub>AI & Data Science<br/>VSB Engineering College</sub></td>
-    <td align="center" width="25%"><b> Superpower</b><br/><sub>Blending Java rigor<br/>with LLM creativity</sub></td>
-    <td align="center" width="25%"><b> Currently</b><br/><sub>Shipping AI agents<br/>+ DSA grind</sub></td>
-    <td align="center" width="25%"><b> 2026 Mission</b><br/><sub>Land top-tier SDE<br/>role + 5 OSS tools</sub></td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ========================= FEATURED PROJECTS ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
 
