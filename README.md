@@ -308,13 +308,11 @@ Build AI systems that <b>amplify humans, not replace them</b>. Software should f
   
   | Quarter | Focus Area | Goals |
   |---------|-----------|-------|
-  | Q1 2026 | DSA Mastery | Solve 200+ LeetCode problems (arrays, trees, graphs, DP) |
-  | Q1 2026 | Java Advanced | Master multithreading, JVM internals, design patterns |
-  | Q2 2026 | AI Agent Systems | Build 3 multi-agent LLM projects with LangChain |
-  | Q2 2026 | System Design | Master distributed systems, caching, scalability |
-  | Q3 2026 | Open Source | Contribute to 5 major AI/Java repositories |
-  | Q3 2026 | Cloud Mastery | AWS Solutions Architect certification |
-  | Q4 2026 | Job Hunt | Land top-tier SDE / AI Engineer role |
+  | Q1 2026 | DSA Mastery | Solve 100+ LeetCode problems (arrays, trees, graphs, DP) |
+  | Q2 2026 | Java Advanced | Master multithreading, JVM internals, design patterns |
+  | Q3 2026 | AI Agent Systems | Build 3 multi-agent LLM projects  |
+  | Q4 2026 | Cloud Mastery | AWS Solutions Architect certification |
+  | Q5 2026 | Job Hunt | Land top-tier SDE / AI Engineer role |
   
 </details>
 
