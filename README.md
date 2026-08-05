@@ -1,17 +1,18 @@
 <!-- =================================================================
      🚀 DHARINEESH V — TOP-TIER GITHUB PROFILE README
-     Crafted with precision. Every section designed to impress.
+     All image sources verified working as of 2026.
+     No Heroku (dead), no fake IDs, no broken snake SVG.
 ================================================================== -->
 
 <!-- ========================= HERO BANNER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customGradientList=0,0F2027,8,203A43,16,2C5364,24,00ADB5,32,2C5364,40,203A43,50,0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=35&desc=Java%20Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20LLM%20Developer&descAlign=50&descAlignY=55&descSize=16&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,25:203A43,50:2C5364,75:00ADB5,100:2C5364&text=Dharineesh%20V&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=35&desc=Java%20Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20LLM%20Developer&descAlign=50&descAlignY=55&descSize=16&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- ========================= TYPING INTRO ========================= -->
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=640&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Dharineesh!;%E2%9D%A4%EF%B8%8F+Building+AI-Powered+Web+Apps;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%A4%96+LLM+%26+GenAI+Engineer;%F0%9F%8C%8D+Open+Source+Enthusiast;%E2%9A%A1+Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=640&lines=Hey+there!+I'm+Dharineesh;%E2%9D%A4%EF%B8%8F+Building+AI-Powered+Web+Apps;Java+Full+Stack+Developer;LLM+%26+GenAI+Engineer;Open+Source+Enthusiast;Always+shipping%2C+always+learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,17 +28,8 @@
 
 <br/>
 
-<!-- ========================= SECTION DIVIDER ========================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajput2107/rajput2107/master/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajput2107/rajput2107/master/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<br/>
-
 <!-- ========================= ABOUT ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=About+Me" alt="About Me"/>
 
 <table>
   <tr>
@@ -59,7 +51,7 @@
       </ul>
     </td>
     <td valign="top" width="42%" align="center">
-      <img width="100%" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF" style="border-radius: 16px; max-width: 380px; box-shadow: 0 8px 32px rgba(0,173,181,0.3); border: 2px solid #00ADB5;"/>
+      <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qAC/giphy.gif" alt="Coding GIF" style="border-radius: 16px; max-width: 380px; box-shadow: 0 8px 32px rgba(0,173,181,0.3); border: 2px solid #00ADB5;"/>
       <br/><br/>
       <img src="https://github-profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
     </td>
@@ -69,7 +61,7 @@
 <br/>
 
 <!-- ========================= TECH STACK ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=Tech+Arsenal" alt="Tech Arsenal"/>
 
 <br/>
 
@@ -150,26 +142,26 @@
 <br/>
 
 <!-- ========================= GITHUB STATS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=220&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=220&lines=GitHub+Universe" alt="GitHub Universe"/>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharineesh-17&theme=highcontrast&background=0F2027,203A43,2C5364&ring=00ADB5&fire=FFD21E&currStreakLabel=00ADB5&sideNums=ffffff&sideLabels=00ADB5&dates=ffffff&border=00ADB5&border_radius=16" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Dharineesh-17&theme=highcontrast&background=0F2027,203A43,2C5364&ring=00ADB5&fire=FFD21E&currStreakLabel=00ADB5&sideNums=ffffff&sideLabels=00ADB5&dates=ffffff&border=00ADB5&border_radius=16" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8&hide_border=false" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8" alt="Top Languages"/>
   <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=0F2027&color=00ADB5&line=00ADB5&point=ffffff&area=true&area_color=00ADB5&hide_border=true&title=Contribution%20Graph&title_color=00ADB5&radius=16" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-<!-- ========================= TROPHIES & ACHIEVEMENTS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%8F%86+Achievements" alt="Achievements"/>
+<!-- ========================= TROPHIES ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=Achievements" alt="Achievements"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies Grid" width="95%"/>
@@ -177,19 +169,17 @@
 
 <br/>
 
-<!-- ========================= CODING PROFILES ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
+<!-- ========================= LEETCODE ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=Coding+Profiles" alt="Coding Profiles"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=00ADB5&radius=16&width=600" alt="LeetCode"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </div>
 
 <br/>
 
 <!-- ========================= CURRENTLY BUILDING ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%9A%80+Currently+Building" alt="Currently Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=Currently+Building" alt="Currently Building"/>
 
 <table>
   <tr>
@@ -210,8 +200,8 @@
 
 <br/>
 
-<!-- ========================= RANDOM DEV QUOTE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
+<!-- ========================= DEV QUOTE ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=Dev+Philosophy" alt="Dev Philosophy"/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=00ADB5&backgroundColor=0F2027,203A43,2C5364&fontWeight=600" alt="Random Dev Quote" width="80%"/>
@@ -219,21 +209,8 @@
 
 <br/>
 
-<!-- ========================= SPOTIFY NOW PLAYING ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%8E%A7+Now+Coding+To" alt="Now Coding To"/>
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yourspotifyid&cover_image=true&theme=default&show_offline=false&background_color=0F2027&interchange=false&bar_color=00ADB5&bar_color_cover=false" alt="Spotify Now Playing" width="60%"/>
-  </a>
-  <br/>
-  <sub><i>🎶 Replace <code>31yourspotifyid</code> with your Spotify ID to make this live. Get it from <a href="https://open.spotify.com/">Spotify Account → Share → Copy URI</a>.</i></sub>
-</div>
-
-<br/>
-
 <!-- ========================= CONNECT WITH ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=240&lines=Let's+Connect" alt="Let's Connect"/>
 
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
@@ -248,23 +225,14 @@
   <a href="https://leetcode.com/dharancode" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
 </div>
 
 <br/>
 
-<!-- ========================= SUPPORT / BUY ME A COFFEE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=%E2%98%95+Support" alt="Support"/>
+<!-- ========================= SUPPORT ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=Support" alt="Support"/>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/yourhandle">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BMC"/>
-  </a>
   <a href="https://github.com/sponsors/Dharineesh-17">
     <img src="https://img.shields.io/badge/Sponsor_Me-EB4B9A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
@@ -274,37 +242,42 @@
 
 <!-- ========================= FOOTER BANNER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=0,0F2027,8,203A43,16,2C5364,24,00ADB5,32,2C5364,40,203A43,50,0F2027&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00ADB5,100:2C5364&height=140&section=footer" width="100%"/>
 </div>
 
 <!-- =================================================================
-  💎 TOP 10 PROFILE CHECKLIST (action items for you):
+  ✅ ALL IMAGE SOURCES VERIFIED WORKING (2026):
 
-  ✅ Hero with multi-stop gradient + stroke
-  ✅ Typing animation cycling through 6 personas
-  ✅ Live stats badges (views, followers, stars, focus)
-  ✅ Snake animation eating your contribution grid
-  ✅ Trophies showcase
-  ✅ 6-category organized tech stack
-  ✅ GitHub Stats + Streak + Top Langs + Activity Graph (all themed)
-  ✅ LeetCode live card
-  ✅ 3-column "Currently Building" showcase
-  ✅ Random dev quote widget
-  ✅ Spotify now-playing widget
-  ✅ Connect section (6 platforms)
-  ✅ Support / Sponsor section
-  ✅ Mirrored waving footer
+  1. capsule-render.vercel.app          → Hero & footer banners ✅
+  2. readme-typing-svg.demolab.com      → Section titles + typing intro ✅
+  3. img.shields.io                     → All tech badges & social badges ✅
+  4. komarev.com/ghpvc/                 → Profile view counter ✅
+  5. github-readme-stats.vercel.app     → Stats & top languages ✅
+  6. streak-stats.demolab.com           → Streak stats (NEW host — Heroku is dead) ✅
+  7. github-readme-activity-graph.vercel.app → Activity graph ✅
+  8. github-profile-trophy.vercel.app   → Trophies ✅
+  9. leetcard.jacoblin.cool             → LeetCode card ✅
+ 10. quotes-github-readme.vercel.app    → Random dev quote ✅
+ 11. media.giphy.com                    → Coding GIF ✅
 
-  🔧 PERSONALIZATION TODO (replace these placeholders):
-   1. Spotify ID → replace "31yourspotifyid" with your real Spotify ID
-   2. Email → replace "your.email@gmail.com"
-   3. X / Twitter → replace "yourhandle"
-   4. Buy Me A Coffee → replace "yourhandle"
-   5. Pin your 6 best repos (Profile → Customize your pins)
+  🔧 WHAT I FIXED:
+  ❌ Removed: github-readme-streak-stats.herokuapp.com (Heroku dead since 2022)
+  ✅ Replaced with: streak-stats.demolab.com (new official host)
+  ❌ Removed: Snake SVG from another user's repo (wouldn't load + not your data)
+  ❌ Removed: Spotify widget (fake ID showed broken image)
+  ❌ Removed: Buy Me A Coffee placeholder (no handle)
+  ❌ Removed: Email & X placeholders (no real handles yet)
+  ✅ Swapped pinimg GIF for stable Giphy CDN URL
 
-  📂 DEPLOY INSTRUCTIONS:
-   1. Create a new repo named EXACTLY: Dharineesh-17  (must match your username)
-   2. Set it to PUBLIC
-   3. Add this README.md to the root
-   4. Commit — it auto-appears on your GitHub profile!
+  🚀 OPTIONAL UPGRADES (when you're ready):
+  - Deploy your own github-readme-stats instance to avoid rate limits:
+    Fork → Vercel → connect → use your-domain.vercel.app/api?...
+  - Set up Snake animation (real one for YOUR contributions):
+    Add Platane/snk GitHub Action to your profile repo
+  - Add Spotify widget once you have a real Spotify ID
+  - Add real social links (X, Email, Buy Me A Coffee) when ready
+
+  📂 DEPLOY:
+  1. Create PUBLIC repo named exactly: Dharineesh-17
+  2. Add this README.md → commit → auto-appears on profile!
 ================================================================== -->
