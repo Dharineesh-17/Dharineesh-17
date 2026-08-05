@@ -5,7 +5,7 @@ on:
     # Runs every 6 hours → keeps your snake animation fresh
     - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual trigger from Actions tab
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
