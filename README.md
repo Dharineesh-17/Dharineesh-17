@@ -1,496 +1,315 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ⚡ DHARINEESH V — THE ULTIMATE GITHUB PROFILE ⚡           ║
-║   ✦ Legendary Edition — Built to Dominate ✦                ║
-║                                                              ║
-║   "Don't just have a README. Have a STATEMENT."              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<!-- =================================================================
+     👑 DHARINEESH V — INSTANT WORLD #1 PROFILE (ONE-FILE VERSION)
+     Just paste this into README.md. No asset uploads needed.
+     All images from verified live external services.
+================================================================== -->
 
-<!-- ========================= CINEMATIC HERO ========================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,10:0d0d0d,20:1a0533,30:2d1b69,40:5c16a8,50:8b5cf6,70:a855f7,90:d946ef,100:f43f5e&text=DHARINEESH%20V&fontColor=ffffff&fontSize=56&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Innovation%20Catalyst&descAlign=50&descAlignY=62&descSize=17&animation=fadeIn&stroke=a855f7&strokeWidth=2.5&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=30&desc=Java%20Full%20Stack%20%F0%9F%96%A5%20AI%20Engineer%20%F0%9F%96%A5%20LLM%20Developer&descAlign=50&descAlignY=50&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
 </div>
 
-<!-- ========================= DYNAMIC INTRO ========================= -->
 <div align="center">
-<a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1500&color=a855f7&center=true&vCenter=true&random=false&width=750&lines=%E2%9C%A6+Welcome+to+my+digital+universe...;I'm+Dharineesh+V+%F0%9F%92%A5;Architecting+the+Future+of+AI-Powered+Solutions;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+LLMs;%E2%9D%A4%EF%B8%8F+Turning+Coffee+Into+Code+%E2%86%92+Impact;Let's+Build+Something+Extraordinary+Together." alt="Dynamic Intro" />
-</a>
+  <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=600&color=00ADB5&center=true&vCenter=true&random=false&width=720&lines=Hey+there!+I'm+Dharineesh+%F0%9F%91%8B;Building+AI-Powered+Web+Apps+%E2%9D%A4%EF%B8%8F;Java+Full+Stack+Developer+%F0%9F%92%BB;LLM+%26+GenAI+Engineer+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+coffee+into+clean+code+%E2%98%95;Always+shipping%2C+always+learning+%E2%9A%A1" alt="Typing SVG"/>
+  </a>
 </div>
 
-<br/>
-
-<!-- ========================= PREMIUM BADGES ========================= -->
 <div align="center">
-
-<!-- Main Stats -->
-<img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Total%20Impressions&color=a855f7&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Dharineesh-17?label=Followers&style=for-the-badge&color=a855f7&labelColor=000000" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Dharineesh-17?label=Total%20Stars&style=for-the-badge&color=a855f7&labelColor=000000" alt="Stars"/>
-
-<br/><br/>
-
-<!-- Status & Focus Badges -->
-<img src="https://img.shields.io/badge/%F0%9F%94%A5_Status-Available_for_Opportunities-a855f7?style=for-the-badge&labelColor=000000" alt="Status"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_Focus-AI_%26_Full_Stack_Engineering-d946ef?style=for-the-badge&labelColor=000000" alt="Focus"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-%23d946ef?style=for-the-badge&labelColor=000000" alt="Location"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93_AI_%26_Data_Science-Student-f43f5e?style=for-the-badge&labelColor=000000" alt="Education"/>
-
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-brightgreen?style=for-the-badge&logo=weight-watchers&logoColor=white" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Visitors&color=00ADB5&style=for-the-badge&labelColor=0F2027" alt="Visitors"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Followers&query=followers&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Repos&query=public_repos&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Repos"/>
+  <img src="https://img.shields.io/github/stars/Dharineesh-17?label=Stars&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Stars"/>
 </div>
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
 <br/>
 
-<!-- ========================= EPIC ABOUT SECTION ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=d946ef&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%91%A4+THE+VISIONARY" alt="Header"/></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
 
 <table>
-<tr>
-<td valign="top" width="52%">
-<br/>
-
-## 🎯 Who Am I?
-
-<p>
-<b>I'm Dharineesh V</b> — not your average developer. I'm a <b>final-year AI & Data Science student at VSB Engineering College, Karur</b> on a mission to <i>redefine</i> how intelligent software is built.
-</p>
-
-<p>
-While others write code, I engineer <b>experiences</b>. While others build apps, I architect <b>solutions that scale</b>. My playground spans the entire stack — from <b>enterprise Java backends</b> to <b>intelligent AI frontends</b>.
-</p>
-
----
-
-## 💫 What Sets Me Apart
-
-<table>
-<tr>
-<td width="50%">
-<ul>
-<li><b>🧠 AI-First Thinking</b><br/><i>I don't just integrate AI — I architect intelligent systems from the ground up.</i></li>
-<li><b>⚡ Full Stack Fluency</b><br/><i>Seamlessly bridging Spring Boot microservices with React experiences.</i></li>
-<li><b>🔥 Ship It Mentality</b><br/><i>I don't wait for perfect. I ship, iterate, and improve relentlessly.</i></li>
-</ul>
-</td>
-<td width="50%">
-<ul>
-<li><b>🌱 Perpetual Learner</b><br/><i>DSA by day, research papers by night. Growth is non-negotiable.</i></li>
-<li><b>🤝 Open Source Heart</b><br/><i>Believing in collective intelligence over individual genius.</i></li>
-<li><b>🎯 Problem Obsessed</b><br/><i>Before writing code, I obsessively understand the problem.</i></li>
-</ul>
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 2026 Mission Control
-
-| Goal | Status | Timeline |
-|------|--------|----------|
-| 🤖 Launch 5+ Open Source AI Tools | 🔴 In Progress | Q1-Q2 |
-| 💼 Secure SDE/AI Engineer Role | 🔴 Active Search | Ongoing |
-| 📊 Master System Design | 🟡 Learning | Continuous |
-| 🏆 500+ LeetCode Problems | 🟡 40% Complete | Year-end |
-
-</td>
-<td valign="top" width="48%" align="center">
-
-<!-- Premium Stats Card with Glow Effect -->
-<div style="background: linear-gradient(135deg, #1a0533 0%, #2d1b69 50%, #5c16a8 100%); padding: 20px; border-radius: 20px; box-shadow: 0 15px 50px rgba(168,85,247,0.5); border: 2px solid #a855f7;">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=radical&bg_color=00000000&title_color=a855f7&icon_color=d946ef&text_color=ffffff&border_color=a855f7&border_radius=16&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Trophy Card -->
-<div style="background: linear-gradient(135deg, #1a0533 0%, #2d1b69 100%); padding: 15px; border-radius: 18px; border: 2px solid #d946ef;">
-<img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=onestar&no-bg=true&no-frame=true&column=3&margin-w=12&margin-h=12" alt="Trophies" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Quick Connect Card -->
-<div style="background: linear-gradient(135deg, #2d1b69 0%, #5c16a8 100%); padding: 18px; border-radius: 16px; border: 2px solid #f43f5e;">
-<h3 style="color: #fff;">📬 Quick Connect</h3>
-<p>
-<a href="mailto:dharineeshvengatesan@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dharineesh-v-sd17/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Talk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://y1yss5n8e5x0-deploy.space-z.ai"><img src="https://img.shields.io/badge/Portfolio-See_My_Work-2C5364?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="58%">
+      <br/>
+      <p>🎓 I'm <b>Dharineesh V</b>, pursuing <b>AI & Data Science</b> at <b>VSB Engineering College, Karur</b>. I architect end-to-end products that blend robust Java backend systems with intelligent LLM-powered workflows — building software that doesn't just work, it <i>thinks, scales, and delights.</i></p>
+      <p>🚀 From crafting pixel-perfect React frontends to deploying Spring Boot microservices and orchestrating multi-agent LLM pipelines, I love living at the intersection of engineering rigor and AI creativity.</p>
+      <ul>
+        <li>🔭 <b>Currently building:</b> AI-powered web apps & LLM orchestration pipelines</li>
+        <li>🌱 <b>Currently learning:</b> DSA mastery + multi-agent AI systems</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, React, Python, GenAI, RAG</li>
+        <li>📫 <b>Reach me:</b> <a href="https://y1yss5n8e5x0-deploy.space-z.ai">Portfolio</a> • <a href="https://www.linkedin.com/in/dharineesh-v-sd17/">LinkedIn</a></li>
+        <li>⚡ <b>Fun fact:</b> I turn coffee into clean, scalable code ☕ → 💻</li>
+        <li>🎯 <b>2026 Goal:</b> Ship 5 open-source AI tools + land a top-tier SDE role</li>
+      </ul>
+    </td>
+    <td valign="top" width="42%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" style="border-radius: 16px;"/>
+      <br/><br/>
+      <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- ========================= TECH MASTERY GRID ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=f43f5e&center=false&vCenter=true&random=false&width=280&lines=%E2%9A%A1+TECH+MASTERY" alt="Tech Header"/></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
 
 <br/>
 
 <div align="center">
-
-<table>
-<tr>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### 💻 Core Languages
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #a855f7;">
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/><br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/><br/><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-</div>
-
-</td>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### 🎨 Frontend Arsenal
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #d946ef;">
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/><br/><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/><br/><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/><br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
-</div>
-
-</td>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### ⚙️ Backend & Data
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #f43f5e;">
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring"/><br/><br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/><br/><br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-</div>
-
-</td>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### ☁️ Cloud & DevOps
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #a855f7;">
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/><br/><br/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/><br/><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><br/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions"/>
-</p>
-</div>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### 🤖 AI / ML / GenAI
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #d946ef;">
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/><br/><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/><br/><br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF"/><br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TF"/><br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-</div>
-
-</td>
-<td valign="top" width="25%" align="center" style="padding: 10px;">
-
-### 🛠️ Dev Tools
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 16px; border: 1px solid #f43f5e;">
-<p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><br/><br/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/><br/><br/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/><br/><br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br/><br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-</div>
-
-</td>
-<td valign="top" width="50%" align="center" colspan="2" style="padding: 10px;">
-
-### 📊 Current Tech Focus
-<div style="background: linear-gradient(135deg, #1a0533, #2d1b69, #5c16a8); padding: 25px; border-radius: 16px; border: 2px solid #a855f7;">
-<table>
-<tr>
-<td align="center" width="33%">
-<b>🔥 Deep Dive</b><br/>
-<code>Multi-Agent LLM Systems</code><br/>
-<i>RAG • Function Calling • Tool Use</i>
-</td>
-<td align="center" width="33%">
-<b>⚡ Building</b><br/>
-<code>Production Full-Stack Apps</code><br/>
-<i>Spring Boot + React + Cloud Deploy</i>
-</td>
-<td align="center" width="33%">
-<b>📈 Grinding</b><br/>
-<code>DSA & System Design</code><br/>
-<i>LeetCode Patterns • Architecture</i>
-</td>
-</tr>
-</table>
-</div>
-
-</td>
-</tr>
-</table>
-
+  <a href="https://github.com/Dharineesh-17/my-ai-diet-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=my-ai-diet-app&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Diet App"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/Lostlink">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Lostlink&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Lostlink"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/Query_Resolver">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Query_Resolver&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Query Resolver"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/worldmonitor">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=worldmonitor&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Worldmonitor"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/AI_Support_Agent">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=AI_Support_Agent&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Support Agent"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/cognizant_hands_on">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=cognizant_hands_on&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Cognizant"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- ========================= GITHUB UNIVERSE ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=a855f7&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%93%8A+GITHUB+UNIVERSE" alt="Stats Header"/></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
 
-<br/>
-
-<div align="center">
-
-<!-- Row 1: Stats + Streak -->
 <table>
-<tr>
-<td>
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 15px; border-radius: 18px; border: 2px solid #a855f7; display: inline-block;">
-<img height="220" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=radical&bg_color=00000000&title_color=a855f7&icon_color=d946ef&text_color=ffffff&border_color=a855f7&border_radius=14&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</div>
-</td>
-<td>
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 15px; border-radius: 18px; border: 2px solid #d946ef; display: inline-block;">
-<img height="220" src="https://streak-stats.demolab.com/?user=Dharineesh-17&theme=radical&background=00000000&ring=d946ef&fire=f43f5e&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=d946ef&dates=ffffff&border=d946ef&border_radius=14&hide_border=true" alt="Streak"/>
-</div>
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🥗 <a href="https://github.com/Dharineesh-17/my-ai-diet-app">AI Diet App</a></h3>
+      <p>An <b>intelligent clinical assistant</b> bridging raw medical data and actionable nutrition. Automates extraction of patient vitals from lab reports and generates <b>hyper-personalized diet protocols</b> using RAG-enhanced LLMs.</p>
+      <p><b>Tech:</b> Python · RAG · LLMs · Medical AI · Clinical NLP</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔗 <a href="https://github.com/Dharineesh-17/Lostlink">Lostlink</a></h3>
+      <p>A <b>production-grade microservices</b> campus lost-and-found platform built with <b>Spring Boot 3 + Spring Cloud + React</b>. Designed for organizations to digitize the traditional notice-board process at scale.</p>
+      <p><b>Tech:</b> Java · Spring Boot 3 · Spring Cloud · React · Microservices</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔍 <a href="https://github.com/Dharineesh-17/Query_Resolver">Query Resolver</a></h3>
+      <p>An <b>AI agent</b> that solves complex customer queries in IT consulting. Integrated with <b>RAG</b> for grounded, context-aware responses over enterprise knowledge bases.</p>
+      <p><b>Tech:</b> TypeScript · RAG · LLM Agents · Vector Search</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌍 <a href="https://github.com/Dharineesh-17/worldmonitor">Worldmonitor</a></h3>
+      <p>A <b>real-time global intelligence dashboard</b> for AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.</p>
+      <p><b>Tech:</b> Real-time Data · AI Aggregation · Dashboard</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 <a href="https://github.com/Dharineesh-17/AI_Support_Agent">AI Support Agent</a></h3>
+      <p>An <b>autonomous Java-based support agent</b> designed to handle customer inquiries end-to-end — integrating LLM reasoning with backend service calls.</p>
+      <p><b>Tech:</b> Java · LLM Integration · Agent Systems</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎓 <a href="https://github.com/Dharineesh-17/cognizant_hands_on">Cognizant Java FSE</a></h3>
+      <p>Solutions for the <b>Cognizant Digital Nurture 5.0 Java FSE</b> training program — covering advanced Java, Spring, microservices, and enterprise patterns.</p>
+      <p><b>Tech:</b> Java · Spring · Enterprise Patterns · FSE</p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- Row 2: Top Lang + Activity Graph -->
-<table>
-<tr>
-<td>
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 15px; border-radius: 18px; border: 2px solid #f43f5e; display: inline-block;">
-<img height="220" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=radical&bg_color=00000000&title_color=f43f5e&text_color=ffffff&border_color=f43f5e&border_radius=14&langs_count=10&hide_border=true" alt="Top Languages"/>
-</div>
-</td>
-<td>
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 15px; border-radius: 18px; border: 2px solid #a855f7; display: inline-block;">
-<img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=000000&color=a855f7&line=d946ef&point=ffffff&area=true&area_color=5c16a8&hide_border=true&title=Contribution%20Universe&title_color=a855f7&radius=14" alt="Activity Graph"/>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================= ACHIEVEMENTS TROPHY ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=f43f5e&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%8F%86+HALL+OF+FAME" alt="Trophies Header"/></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
 
 <div align="center">
-<div style="background: linear-gradient(135deg, #1a0533, #2d1b69, #5c16a8); padding: 25px; border-radius: 20px; border: 2px solid #d946ef; display: inline-block;">
-<img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=onestar&no-bg=true&no-frame=true&column=8&margin-w=12&margin-h=12" alt="Trophies Grid" width="98%"/>
-</div>
+  <h3>💻 Languages & Core</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,sql,html,css&perline=8&theme=dark" alt="Languages"/></a>
+  
+  <h3>🎨 Frontend</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,html&perline=6&theme=dark" alt="Frontend"/></a>
+  
+  <h3>⚙️ Backend & Database</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase,redis,graphql&perline=8&theme=dark" alt="Backend"/></a>
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,git,githubactions,linux,nginx&perline=8&theme=dark" alt="Cloud"/></a>
+  
+  <h3>🤖 AI / ML / LLM</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy&perline=6&theme=dark" alt="AI"/></a>
+  
+  <h3>🛠️ Tools & IDE</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,notion,git,github,linux&perline=8&theme=dark" alt="Tools"/></a>
 </div>
 
 <br/>
 
-<!-- ========================= CODING PROFILES ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=d946ef&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%92%BB+CODOGRAM" alt="Coding Header"/></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
+
+<br/>
 
 <div align="center">
-
-<!-- LeetCode Card with Custom Styling -->
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 20px; border-radius: 20px; border: 2px solid #a855f7; display: inline-block;">
-<img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=a855f7&radius=16&width=680" alt="LeetCode Stats"/>
-</div>
-
-<br/><br/>
-
-<!-- Platform Links -->
-<p>
-<a href="https://leetcode.com/dharancode"><img src="https://img.shields.io/badge/LeetCode-dharancode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/Dharineesh-17"><img src="https://img.shields.io/badge/GitHub-Dharineesh--17-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="200" src="https://streak-stats.demolab.com/?user=Dharineesh-17&theme=highcontrast&background=0F2027,203A43,2C5364&ring=00ADB5&fire=FFD21E&currStreakLabel=00ADB5&sideNums=ffffff&sideLabels=00ADB5&dates=ffffff&border=00ADB5&border_radius=16" alt="GitHub Streak"/>
 </div>
 
 <br/>
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=a855f7&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+FEATURED+ARSENAL" alt="Projects Header"/></h2>
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" style="padding: 8px;">
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 12px; border-radius: 16px; border: 2px solid #a855f7;">
-<a href="#">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=&theme=radical&bg_color=00000000&title_color=a855f7&icon_color=d946ef&text_color=ffffff&border_color=a855f7&border_radius=12&description_lines_count=3" width="100%" alt="Project 1"/>
-</a>
-</div>
-</td>
-<td width="50%" style="padding: 8px;">
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 12px; border-radius: 16px; border: 2px solid #d946ef;">
-<a href="#">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=&theme=radical&bg_color=00000000&title_color=d946ef&icon_color=f43f5e&text_color=ffffff&border_color=d946ef&border_radius=12&description_lines_count=3" width="100%" alt="Project 2"/>
-</a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" style="padding: 8px;">
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 12px; border-radius: 16px; border: 2px solid #f43f5e;">
-<a href="#">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=&theme=radical&bg_color=00000000&title_color=f43f5e&icon_color=a855f7&text_color=ffffff&border_color=f43f5e&border_radius=12&description_lines_count=3" width="100%" alt="Project 3"/>
-</a>
-</div>
-</td>
-<td width="50%" style="padding: 8px;">
-<div style="background: linear-gradient(145deg, #0d0d0d, #1a0533); padding: 12px; border-radius: 16px; border: 2px solid #a855f7;">
-<a href="#">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=&theme=radical&bg_color=00000000&title_color=a855f7&icon_color=d946ef&text_color=ffffff&border_color=a855f7&border_radius=12&description_lines_count=3" width="100%" alt="Project 4"/>
-</a>
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-<i style="color: #a855f7;">🔮 More groundbreaking projects loading... Stay tuned for the revolution!</i>
-
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharineesh-17&layout=compact&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharineesh-17&layout=donut-vertical&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&langs_count=8" alt="Languages Donut"/>
 </div>
 
 <br/>
-
-<!-- ========================= DEV PHILOSOPHY ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=f43f5e&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+MANTRA" alt="Philosophy Header"/></h2>
 
 <div align="center">
-<div style="background: linear-gradient(135deg, #1a0533, #2d1b69, #5c16a8); padding: 30px; border-radius: 20px; border: 2px solid #d946ef; max-width: 85%;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=#a855f7&backgroundColor=00000000&fontWeight=700" alt="Dev Quote" width="100%"/>
-</div>
+  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharineesh-17&bg_color=0F2027&color=00ADB5&line=00ADB5&point=ffffff&area=true&area_color=00ADB5&hide_border=true&title=Contribution%20Graph&title_color=00ADB5&radius=16" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-<!-- ========================= CONNECT ZONE ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=a855f7&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A4%9D+JOIN+THE+REVOLUTION" alt="Connect Header"/></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%93%85+Annual+Contributions" alt="Annual Contributions"/>
 
 <div align="center">
-
-<p style="font-size: 18px; color: #d946ef;"><i>"Alone we can do so little; together we can do so much."</i></p>
-<p style="font-size: 16px; color: #ffffff;">— Helen Keller</p>
+  <img src="https://ghchart.rshah.org/00ADB5/Dharineesh-17" alt="Annual Contribution Chart" width="95%"/>
+</div>
 
 <br/>
-<p><b>I'm always excited to connect with fellow builders, innovators, and dreamers!</b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%8F%86+Trophies" alt="Trophies"/>
+
+<div align="center">
+  <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies Grid" width="95%"/>
+</div>
+
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=00ADB5&radius=16&width=600" alt="LeetCode"/>
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=340&lines=%F0%9F%98%86+Dev+Joke+of+the+Day" alt="Dev Joke"/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?borderColor=00ADB5&bgColor=0F2027&borderRadius=16&width=80%" alt="Random Dev Joke"/>
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=00ADB5&backgroundColor=0F2027,203A43,2C5364&fontWeight=600" alt="Random Dev Quote" width="80%"/>
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%94%A5+Current+Focus" alt="Current Focus"/>
 
 <table>
-<tr>
-<td align="center" style="padding: 10px;">
-<a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Explore_My_Work-2C5364?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-</a>
-</td>
-<td align="center" style="padding: 10px;">
-<a href="https://www.linkedin.com/in/dharineesh-v-sd17/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%91%A5_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" style="padding: 10px;">
-<a href="https://github.com/Dharineesh-17" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding: 10px;">
-<a href="https://leetcode.com/dharancode" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_LeetCode-Challenge_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode"/>
-</a>
-</td>
-<td align="center" style="padding: 10px;">
-<a href="mailto:dharineeshvengatesan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Send_Me_a_Note-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-</a>
-</td>
-<td align="center" style="padding: 10px;">
-<a href="https://twitter.com/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%90%A6_Twitter-Let's_Chat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ========================= SUPPORT SECTION ========================= -->
-<h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1800&color=d946ef&center=false&vCenter=true&random=false&width=260&lines=%E2%99%A5+FUEL+THE+MISSION" alt="Support Header"/></h2>
-
-<div align="center">
-
-<p style="font-size: 17px; color: #ffffff;"><i>If my work inspires you or adds value to your journey, consider supporting the mission!</i></p>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" style="padding: 10px;">
-<a href="https://github.com/sponsors/Dharineesh-17">
-<img src="https://img.shields.io/badge/%E2%99%A6_Sponsor-My_Open_Source-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" alt="Sponsor"/>
-</a>
-</td>
-<td align="center" style="padding: 10px;">
-<a href="https://buymeacoffee.com/" target="_blank">
-<img src="https://img.shields.io/badge/%E2%98%95_Buy_Me_A_Coffee-Fuel_My_Coding-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" alt="BMC"/>
-</a>
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <h3>🚧 Building</h3>
+      <img src="https://img.shields.io/badge/AI_Agent_Systems-00ADB5?style=for-the-badge&labelColor=0F2027" alt="AI"/>
+      <p>Multi-agent LLM workflows with RAG pipelines, function calling, and tool-augmented reasoning for real-world automation.</p>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <h3>📚 Learning</h3>
+      <img src="https://img.shields.io/badge/DSA_%2B_Agentic_AI-00ADB5?style=for-the-badge&labelColor=0F2027" alt="DSA"/>
+      <p>Daily LeetCode practice for DSA mastery + building autonomous AI agents that orchestrate complex tasks end-to-end.</p>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <h3>💡 Reading</h3>
+      <img src="https://img.shields.io/badge/Building_LLM_Apps-00ADB5?style=for-the-badge&labelColor=0F2027" alt="Reading"/>
+      <p>Deep-diving into LLM architecture, RAG optimization, vector databases, and production-grade GenAI deployment patterns.</p>
+    </td>
+  </tr>
 </table>
 
 <br/>
-<p style="color: #a855f7;"><b>Every star, follow, and sponsorship fuels the innovation engine! 🚀</b></p>
 
-</div>
+<details>
+  <summary><b>📖 Click to expand — My 2026 Roadmap</b></summary>
+  <br/>
+  
+  | Quarter | Focus Area | Goals |
+  |---------|-----------|-------|
+  | Q1 2026 | DSA Mastery | Solve 200+ LeetCode problems (arrays, trees, graphs, DP) |
+  | Q1 2026 | Java Advanced | Master multithreading, JVM internals, design patterns |
+  | Q2 2026 | AI Agent Systems | Build 3 multi-agent LLM projects with LangChain |
+  | Q2 2026 | System Design | Master distributed systems, caching, scalability |
+  | Q3 2026 | Open Source | Contribute to 5 major AI/Java repositories |
+  | Q3 2026 | Cloud Mastery | AWS Solutions Architect certification |
+  | Q4 2026 | Job Hunt | Land top-tier SDE / AI Engineer role |
+  
+</details>
 
 <br/>
 
-<!-- ========================= FOOTER ========================= -->
+<details>
+  <summary><b>💬 Click to expand — My Favorite Tech Quotes</b></summary>
+  <br/>
+  
+  > *"The best way to predict the future is to invent it."* — Alan Kay
+  
+  > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
+  
+  > *"First, solve the problem. Then, write the code."* — John Johnson
+  
+  > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+  
+  > *"AI doesn't replace engineers. It amplifies those who build it, and obsoletes those who don't."* — Dharineesh V
+  
+</details>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
+
+<table>
+  <tr>
+    <td valign="middle" width="70%" align="center">
+      <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/in/dharineesh-v-sd17/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://github.com/Dharineesh-17" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a><br/><br/>
+      <a href="https://leetcode.com/dharancode" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+      </a>
+      <a href="https://github.com/sponsors/Dharineesh-17">
+        <img src="https://img.shields.io/badge/Sponsor_Me-EB4B9A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
+      </a>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://y1yss5n8e5x0-deploy.space-z.ai&color=0F2027&bgcolor=ffffff&margin=10" alt="Portfolio QR Code" width="180" style="border-radius: 12px; border: 2px solid #00ADB5;"/>
+      <br/>
+      <sub><b>📷 Scan to visit my portfolio</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0d0d0d,20:1a0533,30:2d1b69,50:5c16a8,70:a855f7,90:d946ef,100:f43f5e&height=160&section=footer" width="100%"/>
-<br/>
-<p style="font-size: 16px;">
-<i>Crafted with <span style="color: #f43f5e;">❤️</span> and <span style="color: #a855f7;">☕</span> by <b style="color: #d946ef;">Dharineesh V</b></i>
-</p>
-<p style="font-size: 14px; color: #888;">
-© 2026 | Built to <b>Inspire</b> • Engineered to <b>Impress</b> • Designed to <b>Dominate</b>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Made_in-India-%23FF9933?style=flat-square&labelColor=000000" alt="India"/>
-<img src="https://img.shields.io/badge/Powered_by-Passion-a855f7?style=flat-square&labelColor=000000" alt="Passion"/>
-<img src="https://img.shields.io/badge/Built_with-Love-f43f5e?style=flat-square&labelColor=000000" alt="Love"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&height=140&section=footer" width="100%"/>
 </div>
