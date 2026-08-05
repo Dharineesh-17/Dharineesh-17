@@ -47,41 +47,10 @@
 
 <br/>
 <!-- ========================= FEATURED PROJECTS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Dharineesh-17/my-ai-diet-app">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=my-ai-diet-app&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Diet App"/>
-  </a>
-  <a href="https://github.com/Dharineesh-17/Lostlink">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Lostlink&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Lostlink"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Dharineesh-17/Query_Resolver">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Query_Resolver&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Query Resolver"/>
-  </a>
-  <a href="https://github.com/Dharineesh-17/worldmonitor">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=worldmonitor&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Worldmonitor"/>
-  </a>
-  <br/>
-  <a href="https://github.com/Dharineesh-17/AI_Support_Agent">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=AI_Support_Agent&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Support Agent"/>
-  </a>
-  <a href="https://github.com/Dharineesh-17/cognizant_hands_on">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=cognizant_hands_on&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Cognizant"/>
-  </a>
-</div>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
-
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🥗 <a href="https://github.com/Dharineesh-17/my-ai-diet-app">AI Diet App</a></h3>
+      <h3> <a href="https://github.com/Dharineesh-17/my-ai-diet-app">AI Diet App</a></h3>
       <p>An <b>intelligent clinical assistant</b> bridging raw medical data and actionable nutrition. Automates extraction of patient vitals from lab reports and generates <b>hyper-personalized diet protocols</b> using RAG-enhanced LLMs.</p>
       <p><b>Tech:</b> Python · RAG · LLMs · Medical AI · Clinical NLP</p>
     </td>
