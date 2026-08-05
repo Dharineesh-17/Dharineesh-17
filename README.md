@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td valign="top" width="55%">
-      <h1>👋 About Me</h1>
+      <h1> About Me</h1>
       <p>
         I'm <b>Dharineesh V</b>, a passionate developer pursuing <b>Artificial Intelligence & Data Science</b> at <b>VSB Engineering College, Karur</b>. I love building end-to-end products that blend solid engineering with intelligent systems — from Java full-stack apps to LLM-powered workflows.
       </p>
