@@ -16,8 +16,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Work-brightgreen?style=for-the-badge&logo=weight-watchers&logoColor=white" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Visitors&color=00ADB5&style=for-the-badge&labelColor=0F2027" alt="Visitors"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Followers&query=followers&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Repos&query=public_repos&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Repos"/>
   <img src="https://img.shields.io/github/stars/Dharineesh-17?label=Stars&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Stars"/>
 </div>
 
