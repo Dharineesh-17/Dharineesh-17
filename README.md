@@ -31,46 +31,29 @@
 
 <br/>
 
-<!-- ========================= UNIQUE ABOUT ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
-
+<!-- ========================= ABOUT ME SECTION ========================= -->
 <table>
   <tr>
-    <td valign="top" width="58%">
-      <br/>
-      
-<!-- ✨ UNIQUE MANIFESTO-STYLE INTRO — Different from generic profiles ✨ -->
-      
-<h3>🧠 The Mindset</h3>
-<p>
-I don't just write code — I <b>compose systems</b>. Every function is a sentence, every class a paragraph, every service a chapter in a story about solving real human problems. Most developers chase frameworks; I chase <b>first principles</b>. Frameworks change every 3 years. Fundamentals don't.
-</p>
-
-<h3>⚡ The Edge</h3>
-<p>
-I live in the rare overlap where <b>enterprise Java discipline</b> meets <b>AI-native creativity</b>. While others ask "which library should I use?" — I ask "what does the user actually need, and what's the simplest system that delivers it 10x faster?" That mindset has shipped clinical AI assistants, microservice platforms, and autonomous agents — all before graduation.
-</p>
-
-<h3>🎯 The Mission</h3>
-<p>
-Build AI systems that <b>amplify humans, not replace them</b>. Software should feel like a superpower — invisible when it works, transformative when it matters. I'm here to make tools that give people back their time, their focus, their potential.
-</p>
-
-<h3>📜 The Code</h3>
-<p>
-<i>"Clean code always wins. Clever code always bites."</i><br/>
-<i>"Ship the boring version first. Make it beautiful later."</i><br/>
-<i>"If a junior can't read your code, it's not senior — it's just hidden."</i>
-</p>
-      
+    <td valign="top" width="55%">
+      <h1>👋 About Me</h1>
+      <p>
+        I'm <b>Dharineesh V</b>, a passionate developer pursuing <b>Artificial Intelligence & Data Science</b> at <b>VSB Engineering College, Karur</b>. I love building end-to-end products that blend solid engineering with intelligent systems — from Java full-stack apps to LLM-powered workflows.
+      </p>
+      <ul>
+        <li>🔭 Currently building <b>AI-powered web applications</b> & <b>LLM workflows</b></li>
+        <li>🌱 Learning <b>Data Structures & Algorithms</b> and <b>AI agent orchestration</b></li>
+        <li>💬 Ask me about <b>Java, Spring Boot, React, Python, and GenAI</b></li>
+        <li>⚡ Fun fact: <i>I turn coffee into clean, scalable code</i> ☕→💻</li>
+        <li>🌐 Portfolio: <a href="https://y1yss5n8e5x0-deploy.space-z.ai"><b>dharineesh.dev</b></a></li>
+      </ul>
     </td>
-    <td valign="top" width="42%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" style="border-radius: 16px;"/>
-      <br/><br/>
-      <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+    <td valign="top" width="45%" align="center">
+      <img width="100%" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF" style="border-radius: 12px; max-width: 380px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
     </td>
   </tr>
 </table>
+
+<br/>
 
 <!-- ✨ QUICK FACTS GRID — More personality than generic bullet list ✨ -->
 <table>
