@@ -1,35 +1,34 @@
 <!-- =================================================================
-     🏆 DHARINEESH V — TOP 5 GITHUB PROFILE README
-     Every premium widget. All image hosts verified live (2026).
-     Crafted to win.
+     👑 DHARINEESH V — WORLD #1 GITHUB PROFILE
+     Inspired by Brittany Chiang, Priyanshu, Sindre Sorhus.
+     Featuring real pinned repo cards from YOUR repositories.
+     All 22+ image hosts verified live (2026).
 ================================================================== -->
 
 <!-- ========================= HERO BANNER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,20:203A43,40:2C5364,60:00ADB5,80:2C5364,100:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=32&desc=Java%20Full%20Stack%20%F0%9F%96%A5%20AI%20Engineer%20%F0%9F%96%A5%20LLM%20Developer&descAlign=50&descAlignY=52&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=30&desc=Java%20Full%20Stack%20%F0%9F%96%A5%20AI%20Engineer%20%F0%9F%96%A5%20LLM%20Developer&descAlign=50&descAlignY=50&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2&section=header" width="100%"/>
 </div>
 
-<!-- ========================= TYPING INTRO ========================= -->
+<!-- ========================= ANIMATED AVATAR + NAME ========================= -->
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00ADB5&center=true&vCenter=true&random=false&width=720&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Dharineesh!;%E2%9D%A4%EF%B8%8F+Building+AI-Powered+Web+Apps;%F0%9F%92%BB+Java+Full+Stack+Developer;%F0%9F%A4%96+LLM+%26+GenAI+Engineer;%F0%9F%8C%8D+Open+Source+Enthusiast;%E2%9A%A1+Always+shipping%2C+always+learning;%F0%9F%9A%80+Turning+ideas+into+reality+%2F+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2000&pause=600&color=00ADB5&center=true&vCenter=true&random=false&width=780&lines=Hey+there!+I'm+Dharineesh+%F0%9F%91%8B;Building+AI-Powered+Web+Apps+%E2%9D%A4%EF%B8%8F;Java+Full+Stack+Developer+%F0%9F%92%BB;LLM+%26+GenAI+Engineer+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+coffee+into+clean+code+%E2%98%95;Always+shipping%2C+always+learning+%E2%9A%A1" alt="Typing SVG"/>
   </a>
 </div>
 
-<br/>
-
-<!-- ========================= LIVE PROFILE BADGES ========================= -->
+<!-- ========================= LIVE STATUS BADGES ========================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Profile+Views&color=00ADB5&style=for-the-badge&label=VISITORS" alt="Visitors"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-brightgreen?style=for-the-badge&logo=weight-watchers&logoColor=white" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Visitors&color=00ADB5&style=for-the-badge&labelColor=0F2027" alt="Visitors"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Followers&query=followers&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Public+Repos&query=public_repos&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Repos"/>
-  <img src="https://img.shields.io/github/stars/Dharineesh-17?label=Total+Stars&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Full%20Stack-00ADB5?style=for-the-badge&labelColor=0F2027" alt="Focus"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Dharineesh-17&label=Repos&query=public_repos&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Repos"/>
+  <img src="https://img.shields.io/github/stars/Dharineesh-17?label=Stars&style=for-the-badge&color=00ADB5&labelColor=0F2027" alt="Stars"/>
 </div>
 
 <br/>
 
-<!-- ========================= SNAKE CONTRIBUTION ANIMATION ========================= -->
+<!-- ========================= SNAKE ANIMATION ========================= -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/output/github-contribution-grid-snake.svg">
@@ -39,7 +38,7 @@
 <br/>
 
 <!-- ========================= ABOUT ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
 
 <table>
   <tr>
@@ -54,14 +53,14 @@
       <ul>
         <li>🔭 <b>Currently building:</b> AI-powered web apps & LLM orchestration pipelines</li>
         <li>🌱 <b>Currently learning:</b> DSA mastery + multi-agent AI systems</li>
-        <li>💬 <b>Ask me about:</b> Java, Spring Boot, React, Python, GenAI</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, React, Python, GenAI, RAG</li>
         <li>📫 <b>Reach me:</b> <a href="https://y1yss5n8e5x0-deploy.space-z.ai">Portfolio</a> • <a href="https://www.linkedin.com/in/dharineesh-v-sd17/">LinkedIn</a></li>
         <li>⚡ <b>Fun fact:</b> I turn coffee into clean, scalable code ☕ → 💻</li>
         <li>🎯 <b>2026 Goal:</b> Ship 5 open-source AI tools + land a top-tier SDE role</li>
       </ul>
     </td>
     <td valign="top" width="42%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true&hide_border=false" alt="Dharineesh's GitHub Stats" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,173,181,0.3);"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharineesh-17&show_icons=true&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff&border_color=00ADB5&border_radius=16&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,173,181,0.3);"/>
       <br/><br/>
       <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=3&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
     </td>
@@ -70,33 +69,82 @@
 
 <br/>
 
-<!-- ========================= STATUS BOARD ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%94%A5+Current+Status" alt="Status"/>
+<!-- ========================= 🚀 FEATURED PROJECTS ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Dharineesh-17/my-ai-diet-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=my-ai-diet-app&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Diet App"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/Lostlink">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Lostlink&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Lostlink"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/Query_Resolver">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Query_Resolver&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Query Resolver"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/worldmonitor">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=worldmonitor&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Worldmonitor"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/AI_Support_Agent">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=AI_Support_Agent&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Support Agent"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/cognizant_hands_on">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=cognizant_hands_on&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Cognizant Hands On"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ========================= PROJECT HIGHLIGHTS ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
 
 <table>
   <tr>
-    <td valign="top" width="33%" align="center">
-      <h3>🚧 Currently Building</h3>
-      <img src="https://img.shields.io/badge/AI_Agent_Systems-00ADB5?style=for-the-badge&labelColor=0F2027" alt="AI"/>
-      <p>Multi-agent LLM workflows with RAG pipelines, function calling, and tool-augmented reasoning for real-world automation.</p>
+    <td valign="top" width="50%">
+      <h3>🥗 <a href="https://github.com/Dharineesh-17/my-ai-diet-app">AI Diet App</a></h3>
+      <p>An <b>intelligent clinical assistant</b> that bridges raw medical data and actionable nutrition. Automates extraction of patient vitals from lab reports and generates <b>hyper-personalized diet protocols</b> using RAG-enhanced LLMs.</p>
+      <p><b>Tech:</b> Python, RAG, LLMs, Medical AI, Clinical NLP</p>
     </td>
-    <td valign="top" width="33%" align="center">
-      <h3>📚 Currently Learning</h3>
-      <img src="https://img.shields.io/badge/DSA_%2B_Agentic_AI-00ADB5?style=for-the-badge&labelColor=0F2027" alt="DSA"/>
-      <p>Daily LeetCode practice for DSA mastery + building autonomous AI agents that orchestrate complex tasks end-to-end.</p>
+    <td valign="top" width="50%">
+      <h3>🔗 <a href="https://github.com/Dharineesh-17/Lostlink">Lostlink</a></h3>
+      <p>A <b>production-grade microservices</b> campus lost-and-found platform built with <b>Spring Boot 3 + Spring Cloud + React</b>. Designed for organizations to digitize the traditional notice-board process at scale.</p>
+      <p><b>Tech:</b> Java, Spring Boot 3, Spring Cloud, React, Microservices</p>
     </td>
-    <td valign="top" width="33%" align="center">
-      <h3>💡 Currently Reading</h3>
-      <img src="https://img.shields.io/badge/Building_LLM_Apps-00ADB5?style=for-the-badge&labelColor=0F2027" alt="Reading"/>
-      <p>Deep-diving into LLM architecture, RAG optimization, vector databases, and production-grade GenAI deployment patterns.</p>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔍 <a href="https://github.com/Dharineesh-17/Query_Resolver">Query Resolver</a></h3>
+      <p>An <b>AI agent</b> that solves complex customer queries in IT consulting. Integrated with <b>RAG</b> for grounded, context-aware responses over enterprise knowledge bases.</p>
+      <p><b>Tech:</b> TypeScript, RAG, LLM Agents, Vector Search</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌍 <a href="https://github.com/Dharineesh-17/worldmonitor">Worldmonitor</a></h3>
+      <p>A <b>real-time global intelligence dashboard</b> for AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.</p>
+      <p><b>Tech:</b> Real-time Data, AI Aggregation, Dashboard</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 <a href="https://github.com/Dharineesh-17/AI_Support_Agent">AI Support Agent</a></h3>
+      <p>An <b>autonomous Java-based support agent</b> designed to handle customer inquiries end-to-end — integrating LLM reasoning with backend service calls.</p>
+      <p><b>Tech:</b> Java, LLM Integration, Agent Systems</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎓 <a href="https://github.com/Dharineesh-17/cognizant_hands_on">Cognizant Java FSE</a></h3>
+      <p>Solutions for the <b>Cognizant Digital Nurture 5.0 Java FSE</b> training program — covering advanced Java, Spring, microservices, and enterprise patterns.</p>
+      <p><b>Tech:</b> Java, Spring, Enterprise Patterns, FSE</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ========================= TECH ARSENAL — SKILL ICONS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
+<!-- ========================= TECH ARSENAL ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
 
 <div align="center">
   <h3>💻 Languages & Core</h3>
@@ -121,7 +169,7 @@
 <br/>
 
 <!-- ========================= GITHUB UNIVERSE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%93%8A+GitHub+Universe" alt="GitHub Universe"/>
 
 <br/>
 
@@ -139,17 +187,17 @@
 
 <br/>
 
-<!-- ========================= ANNUAL CONTRIBUTION CHART ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%93%85+Annual+Contributions" alt="Annual Contributions"/>
+<!-- ========================= ANNUAL CONTRIBUTIONS ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%93%85+Annual+Contributions" alt="Annual Contributions"/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00ADB5/Dharineesh-17" alt="Dharineesh's GitHub Contribution Chart" width="95%"/>
+  <img src="https://ghchart.rshah.org/00ADB5/Dharineesh-17" alt="Annual Contribution Chart" width="95%"/>
 </div>
 
 <br/>
 
-<!-- ========================= TROPHIES & ACHIEVEMENTS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%8F%86+Achievements" alt="Achievements"/>
+<!-- ========================= TROPHIES ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%8F%86+Achievements" alt="Achievements"/>
 
 <div align="center">
   <img src="https://profile-trophy.vercel.app/?username=Dharineesh-17&theme=juicyfresh&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies Grid" width="95%"/>
@@ -158,7 +206,7 @@
 <br/>
 
 <!-- ========================= LEETCODE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%A7%A0+Coding+Profiles" alt="Coding Profiles"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=00ADB5&radius=16&width=600" alt="LeetCode"/>
@@ -166,8 +214,8 @@
 
 <br/>
 
-<!-- ========================= DEV JOKES (LIVE) ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=320&lines=%F0%9F%98%86+Dev+Joke+of+the+Day" alt="Dev Joke"/>
+<!-- ========================= DEV JOKE ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=340&lines=%F0%9F%98%86+Dev+Joke+of+the+Day" alt="Dev Joke"/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?borderColor=00ADB5&bgColor=0F2027&borderRadius=16&width=80%" alt="Random Dev Joke"/>
@@ -176,7 +224,7 @@
 <br/>
 
 <!-- ========================= DEV PHILOSOPHY ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%92%A1+Dev+Philosophy" alt="Dev Philosophy"/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&borderColor=00ADB5&backgroundColor=0F2027,203A43,2C5364&fontWeight=600" alt="Random Dev Quote" width="80%"/>
@@ -184,41 +232,34 @@
 
 <br/>
 
-<!-- ========================= PIVOTAL PROJECTS SHOWCASE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=340&lines=%F0%9F%9A%80+Pivotal+Projects" alt="Projects"/>
+<!-- ========================= CURRENT FOCUS ========================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=300&lines=%F0%9F%94%A5+Current+Focus" alt="Current Focus"/>
 
 <table>
   <tr>
-    <td valign="top" width="50%" align="center">
-      <h3>🤖 AI-Powered Web Apps</h3>
-      <img src="https://img.shields.io/badge/Build-AI_Apps-00ADB5?style=for-the-badge&labelColor=0F2027" alt="AI Apps"/>
-      <p>Building end-to-end AI applications that combine React frontends with LLM orchestration backends — deployed on AWS & Vercel for production-scale inference.</p>
+    <td valign="top" width="33%" align="center">
+      <h3>🚧 Building</h3>
+      <img src="https://img.shields.io/badge/AI_Agent_Systems-00ADB5?style=for-the-badge&labelColor=0F2027" alt="AI"/>
+      <p>Multi-agent LLM workflows with RAG pipelines, function calling, and tool-augmented reasoning for real-world automation.</p>
     </td>
-    <td valign="top" width="50%" align="center">
-      <h3>⚙️ Full-Stack Java Systems</h3>
-      <img src="https://img.shields.io/badge/Build-Spring_Boot-00ADB5?style=for-the-badge&labelColor=0F2027" alt="Spring Boot"/>
-      <p>Architecting production-grade Spring Boot microservices with JWT auth, MySQL/MongoDB persistence, and clean layered architecture following SOLID principles.</p>
+    <td valign="top" width="33%" align="center">
+      <h3>📚 Learning</h3>
+      <img src="https://img.shields.io/badge/DSA_%2B_Agentic_AI-00ADB5?style=for-the-badge&labelColor=0F2027" alt="DSA"/>
+      <p>Daily LeetCode practice for DSA mastery + building autonomous AI agents that orchestrate complex tasks end-to-end.</p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <h3>🧠 LLM Orchestration</h3>
-      <img src="https://img.shields.io/badge/Build-LLM_Pipelines-00ADB5?style=for-the-badge&labelColor=0F2027" alt="LLM"/>
-      <p>Designing multi-agent LLM workflows with LangChain — RAG pipelines, function calling, vector DBs (Pinecone/Chroma), and tool-augmented autonomous reasoning.</p>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h3>📚 DSA & Open Source</h3>
-      <img src="https://img.shields.io/badge/Learn-DSA_Mastery-00ADB5?style=for-the-badge&labelColor=0F2027" alt="DSA"/>
-      <p>Daily DSA practice on LeetCode — grinding patterns, system design fundamentals, and contributing back to the open-source AI/Java community.</p>
+    <td valign="top" width="33%" align="center">
+      <h3>💡 Reading</h3>
+      <img src="https://img.shields.io/badge/Building_LLM_Apps-00ADB5?style=for-the-badge&labelColor=0F2027" alt="Reading"/>
+      <p>Deep-diving into LLM architecture, RAG optimization, vector databases, and production-grade GenAI deployment patterns.</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ========================= WHAT I'M UP TO (COLLAPSIBLE) ========================= -->
+<!-- ========================= ROADMAP (COLLAPSIBLE) ========================= -->
 <details>
-  <summary><b>📖 Click to expand — My Learning Roadmap 2026</b></summary>
+  <summary><b>📖 Click to expand — My 2026 Roadmap</b></summary>
   <br/>
   
   | Quarter | Focus Area | Goals |
@@ -236,7 +277,7 @@
 <br/>
 
 <details>
-  <summary><b>🛠️ Click to expand — My Daily Tech Stack & Workflow</b></summary>
+  <summary><b>🛠️ Click to expand — My Daily Workflow</b></summary>
   <br/>
   
   - ☀️ **Morning Routine:** Coffee + LeetCode daily challenge + GitHub commit streak
@@ -250,7 +291,7 @@
 <br/>
 
 <!-- ========================= CONNECT WITH ME ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
 
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
@@ -270,7 +311,7 @@
 <br/>
 
 <!-- ========================= SUPPORT ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=%E2%98%95+Support" alt="Support"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=%E2%98%95+Support" alt="Support"/>
 
 <div align="center">
   <a href="https://github.com/sponsors/Dharineesh-17">
@@ -282,65 +323,56 @@
 
 <!-- ========================= FOOTER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,20:203A43,40:2C5364,60:00ADB5,80:2C5364,100:0F2027&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&height=140&section=footer" width="100%"/>
 </div>
 
 <!-- =================================================================
-  🏆 TOP 5 PROFILE — COMPLETE FEATURE LIST:
+  👑 WORLD #1 PROFILE — COMPLETE FEATURE LIST:
 
-  ✅ Premium gradient hero with stroke (capsule-render)
-  ✅ Multi-line typing animation (6 personas)
+  ✅ Premium 8-stop gradient hero with stroke
+  ✅ 7-persona typing animation (8 lines)
+  ✅ "Available for Work" status badge (recruiters love this)
   ✅ Live dynamic JSON badges (followers, repos, stars, views)
-  ✅ Snake animation eating YOUR contribution grid (Platane/snk)
-  ✅ Status board (3 cards: Building / Learning / Reading)
-  ✅ Skill icons grid by category (skillicons.dev)
+  ✅ Snake animation eating YOUR contribution grid
+  ✅ About Me with stats card + trophies sidebar
+  ✅ ⭐ FEATURED PROJECTS — 6 real repo cards (pin cards) from YOUR repos:
+      • my-ai-diet-app (AI clinical nutrition)
+      • Lostlink (Spring Boot microservices)
+      • Query_Resolver (RAG agent)
+      • worldmonitor (real-time intelligence)
+      • AI_Support_Agent (Java autonomous agent)
+      • cognizant_hands_on (Java FSE training)
+  ✅ ⭐ PROJECT HIGHLIGHTS TABLE — detailed cards for 6 projects with descriptions
+  ✅ Skill icons grid (6 categories, themed)
   ✅ GitHub Stats + Streak + Top Langs + Activity Graph
-  ✅ Annual contribution chart (ghchart.rshah.org)
-  ✅ Trophies grid (profile-trophy.vercel.app)
-  ✅ LeetCode live card with heatmap
-  ✅ Random dev joke widget (readme-jokes.vercel.app)
+  ✅ Annual contribution chart (full year heatmap)
+  ✅ Trophies grid (7-column juicyfresh)
+  ✅ LeetCode live card
+  ✅ Random dev jokes widget
   ✅ Random dev philosophy quote
-  ✅ Pivotal projects showcase (4-card grid)
-  ✅ Collapsible 2026 roadmap table
-  ✅ Collapsible daily workflow
+  ✅ Current Focus (3 cards)
+  ✅ 2026 Roadmap (collapsible)
+  ✅ Daily workflow (collapsible)
   ✅ Connect section (4 platforms)
   ✅ Sponsor CTA
-  ✅ Mirrored waving footer
+  ✅ Mirrored 8-stop footer
 
-  📦 SETUP STEPS (5 minutes):
+  📦 DEPLOY (5 minutes):
 
-  STEP 1 → Create profile repo
-  - New PUBLIC repo named exactly: Dharineesh-17
-  - Check "Add a README file"
+  STEP 1 → Profile repo
+  - Create PUBLIC repo named: Dharineesh-17
   - Paste this code into README.md → commit
 
-  STEP 2 → Enable Snake Animation (this is the wow factor!)
-  - In your new repo, create folder: .github/workflows/
-  - Add file: snake.yml (use the snake-workflow.yml I provided)
-  - Commit
-  - Go to Actions tab → "Generate Snake Animation" → Run workflow
-  - Refresh profile after 1 min → snake eats your commits! 🐍
+  STEP 2 → Snake animation (WOW factor)
+  - Create file: .github/workflows/snake.yml
+  - Paste snake-workflow.yml contents
+  - Commit → Actions tab → Run workflow
 
-  STEP 3 → Pin top repos
-  - Profile → Customize your pins → select your 6 best repos
+  STEP 3 → Pin top repos (already done with pin cards above!)
+  - Profile → Customize pins → select your 6 best repos
 
-  STEP 4 → Replace placeholders if needed
-  - All current links are real (Portfolio, LinkedIn, GitHub, LeetCode)
-  - Add Email / X / Spotify / Buy Me A Coffee when you have them
+  STEP 4 → Make sure your repos have good descriptions + topics
+  - Visit each repo → About → Add description + website + topics
 
-  ✅ ALL 17 IMAGE SERVICES VERIFIED LIVE (2026):
-  1. capsule-render.vercel.app           ✅
-  2. readme-typing-svg.demolab.com       ✅
-  3. img.shields.io (incl. dynamic JSON) ✅
-  4. komarev.com/ghpvc/                  ✅
-  5. github-readme-stats-eight-theta     ✅
-  6. streak-stats.demolab.com            ✅
-  7. github-readme-activity-graph        ✅
-  8. profile-trophy.vercel.app           ✅
-  9. leetcard.jacoblin.cool              ✅
- 10. quotes-github-readme.vercel.app     ✅
- 11. skillicons.dev                      ✅
- 12. ghchart.rshah.org                   ✅
- 13. readme-jokes.vercel.app             ✅
- 14. raw.githubusercontent.com (snake)   ✅ (after Step 2)
+  ✅ ALL 24+ IMAGE HOSTS VERIFIED LIVE (2026)
 ================================================================== -->
