@@ -249,26 +249,6 @@
 
 <br/>
 
-<details>
-  <summary><b> Click to expand — My Coding Principles</b></summary>
-  <br/>
-  
-  > <b>First principles over frameworks.</b> Frameworks die. Fundamentals compound.
-  
-  >  <b>Ship the boring version first.</b> Beautiful comes later. Working wins today.
-  
-  >  <b>Solve the user's problem, not your fantasy.</b> The simplest system that delivers 10x value is the right one.
-  
-  >  <b>Code is communication.</b> If a junior can't read it, it's not senior — it's just hidden.
-
-  >  <b>Refactor like pruning a tree.</b> Small cuts, often. Never the whole trunk at once.
-  
-  >  <b>AI doesn't replace engineers.</b> It amplifies those who build it, and obsoletes those who don't.
-  
-</details>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=280&lines=%F0%9F%91%A5+Let's+Connect" alt="Let's Connect"/>
 
 <table>
