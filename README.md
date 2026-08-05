@@ -47,46 +47,34 @@
 
 <br/>
 <!-- ========================= FEATURED PROJECTS ========================= -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3> <a href="https://github.com/Dharineesh-17/my-ai-diet-app">AI Diet App</a></h3>
-      <p>An <b>intelligent clinical assistant</b> bridging raw medical data and actionable nutrition. Automates extraction of patient vitals from lab reports and generates <b>hyper-personalized diet protocols</b> using RAG-enhanced LLMs.</p>
-      <p><b>Tech:</b> Python · RAG · LLMs · Medical AI · Clinical NLP</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔗 <a href="https://github.com/Dharineesh-17/Lostlink">Lostlink</a></h3>
-      <p>A <b>production-grade microservices</b> campus lost-and-found platform built with <b>Spring Boot 3 + Spring Cloud + React</b>. Designed for organizations to digitize the traditional notice-board process at scale.</p>
-      <p><b>Tech:</b> Java · Spring Boot 3 · Spring Cloud · React · Microservices</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3> <a href="https://github.com/Dharineesh-17/Query_Resolver">Query Resolver</a></h3>
-      <p>An <b>AI agent</b> that solves complex customer queries in IT consulting. Integrated with <b>RAG</b> for grounded, context-aware responses over enterprise knowledge bases.</p>
-      <p><b>Tech:</b> TypeScript · RAG · LLM Agents · Vector Search</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3> <a href="https://github.com/Dharineesh-17/worldmonitor">Worldmonitor</a></h3>
-      <p>A <b>real-time global intelligence dashboard</b> for AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.</p>
-      <p><b>Tech:</b> Real-time Data · AI Aggregation · Dashboard</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3> <a href="https://github.com/Dharineesh-17/AI_Support_Agent">AI Support Agent</a></h3>
-      <p>An <b>autonomous Java-based support agent</b> designed to handle customer inquiries end-to-end — integrating LLM reasoning with backend service calls.</p>
-      <p><b>Tech:</b> Java · LLM Integration · Agent Systems</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3> <a href="https://github.com/Dharineesh-17/cognizant_hands_on">Cognizant Java FSE</a></h3>
-      <p>Solutions for the <b>Cognizant Digital Nurture 5.0 Java FSE</b> training program — covering advanced Java, Spring, microservices, and enterprise patterns.</p>
-      <p><b>Tech:</b> Java · Spring · Enterprise Patterns · FSE</p>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=360&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
 
 <br/>
+
+<div align="center">
+  <a href="https://github.com/Dharineesh-17/my-ai-diet-app">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=my-ai-diet-app&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Diet App"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/Lostlink">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Lostlink&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Lostlink"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/Query_Resolver">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=Query_Resolver&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Query Resolver"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/worldmonitor">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=worldmonitor&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Worldmonitor"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Dharineesh-17/AI_Support_Agent">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=AI_Support_Agent&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="AI Support Agent"/>
+  </a>
+  <a href="https://github.com/Dharineesh-17/cognizant_hands_on">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dharineesh-17&repo=cognizant_hands_on&theme=chartreuse-dark&bg_color=0F2027,203A43,2C5364&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&border_color=00ADB5&border_radius=16" alt="Cognizant"/>
+  </a>
+</div>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=380&lines=%F0%9F%8C%9F+Project+Highlights" alt="Project Highlights"/>
 
 <!-- ========================= TECH ARSENAL — CURATED ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
