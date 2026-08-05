@@ -82,7 +82,7 @@ No Heroku (dead), no fake IDs, no broken snake SVG.
 <h3>🎨 Frontend</h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 </td>
