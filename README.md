@@ -20,6 +20,30 @@
 </div>
 
 <br/>
+
+<!-- ========================= ABOUT ME SECTION ========================= -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h1> About Me</h1>
+      <p>
+        I'm <b>Dharineesh V</b>, a passionate developer pursuing <b>Artificial Intelligence & Data Science</b> at <b>VSB Engineering College, Karur</b>. I love building end-to-end products that blend solid engineering with intelligent systems — from Java full-stack apps to LLM-powered workflows.
+      </p>
+      <ul>
+        <li> Currently building <b>AI-powered web applications</b> & <b>LLM workflows</b></li>
+        <li> Learning <b>Data Structures & Algorithms</b> and <b>AI agent orchestration</b></li>
+        <li> Ask me about <b>Java, Spring Boot, React, Python, and GenAI</b></li>
+        <li> Fun fact: <i>I turn coffee into clean, scalable code</i> ☕→💻</li>
+        <li>Portfolio: <a href="https://y1yss5n8e5x0-deploy.space-z.ai"><b>dharineesh.dev</b></a></li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img width="100%" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF" style="border-radius: 12px; max-width: 380px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+    </td>
+  </tr>
+</table>
+
+<br/>
 <!-- ========================= TECH ARSENAL — CURATED ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=260&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal"/>
 
