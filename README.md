@@ -5,6 +5,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=30&desc=Java%20Full%20Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLM%20Developer&descAlign=50&descAlignY=50&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="Hello Animation" width="50%" />
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
+</p>
 
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
