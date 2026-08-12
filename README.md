@@ -7,7 +7,7 @@
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="Hello Animation" width="50%" />
-  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
+
 </p>
 
 <div align="center">
