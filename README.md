@@ -28,7 +28,7 @@ I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence 
 - 💬 **Ask me about:** Java, Spring Boot, React, Python, and GenAI
 - 🎓 **Credentials:** Cognizant Digital Nurture 5.0 · Java Full Stack Engineering
 - ☕ **Fun fact:** I turn coffee into clean, scalable code
-- 🌐 **Portfolio:** [y1yss5n8e5x0-deploy.space-z.ai](https://dharineesh-17.space-z.ai)
+- 🌐 **Portfolio:** [Click here](https://dharineesh-17.space-z.ai)
 
 <br/>
 
