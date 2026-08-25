@@ -33,3 +33,117 @@
     <circle cx="442.5" cy="79.8" r="1.2" fill="#F5F5F5"/>
   </g>
 </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Welcome">
+  <defs>
+    <pattern id="halftone" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="2.6" fill="#1A1A1A"/>
+    </pattern>
+    <clipPath id="panel">
+      <rect x="22" y="18" width="856" height="194" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- hard offset shadow behind panel (comic style) -->
+  <rect x="30" y="26" width="856" height="194" rx="14" fill="#0D47A1"/>
+
+  <!-- comic panel -->
+  <g clip-path="url(#panel)">
+    <rect x="22" y="18" width="856" height="194" fill="#D62828">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze"/>
+    </rect>
+
+    <!-- action rays from center (slow rotate) -->
+    <g opacity="0.13" stroke="#F5F5F5" stroke-width="26">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 450 115" to="8 450 115" dur="9s" repeatCount="indefinite"/>
+        <path d="M450 115 L880 -30 M450 115 L880 130 M450 115 L880 260 M450 115 L450 -40 M450 115 L20 -30 M450 115 L20 130 M450 115 L20 260 M450 115 L900 115 M450 115 L0 115"/>
+      </g>
+    </g>
+
+    <!-- web pattern from top-left corner: spokes -->
+    <g stroke="#1A1A1A" stroke-width="2.4" opacity="0.5" fill="none">
+      <path pathLength="1" stroke-dasharray="1" d="M22 18 L520 18"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M22 18 L330 60"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.05s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M22 18 L250 130"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.1s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M22 18 L230 212"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.15s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M22 18 L60 212"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.2s" fill="freeze"/></path>
+      <!-- concentric arcs -->
+      <path pathLength="1" stroke-dasharray="1" d="M112 18 A90 90 0 0 1 101.6 108.4"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.6s" begin="0.3s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M202 18 A180 180 0 0 1 181.3 198.3"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.6s" begin="0.4s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M292 18 A270 270 0 0 1 261 288.5"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.6s" begin="0.5s" fill="freeze"/></path>
+    </g>
+
+    <!-- web from bottom-right corner (spokes going up-left) -->
+    <g stroke="#1A1A1A" stroke-width="2.2" opacity="0.42" fill="none">
+      <path pathLength="1" stroke-dasharray="1" d="M878 212 L430 212"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.1s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M878 212 L560 170"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.15s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M878 212 L660 100"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.7s" begin="0.2s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M795 212 A83 83 0 0 0 819.4 129.6"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.6s" begin="0.35s" fill="freeze"/></path>
+      <path pathLength="1" stroke-dasharray="1" d="M712 212 A166 166 0 0 0 760.8 47.2"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.6s" begin="0.45s" fill="freeze"/></path>
+    </g>
+
+    <!-- halftone dots bottom-right -->
+    <rect x="640" y="120" width="238" height="92" fill="url(#halftone)" opacity="0.3">
+      <animate attributeName="opacity" values="0;0.3" dur="0.5s" begin="0.5s" fill="freeze"/>
+    </rect>
+
+    <!-- eye lenses peeking from top-left -->
+    <g transform="translate(88 62)">
+      <animateTransform attributeName="transform" type="translate" from="88 44" to="88 62" dur="0.5s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.35 1.3"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 0.12;1 1" keyTimes="0;0.45;0.55" dur="0.28s" begin="3.4s" repeatCount="indefinite" repeatDur="15s"/>
+        <path d="M0 6 C-2 -14 16 -26 34 -22 C48 -19 54 -6 48 4 C42 14 26 20 12 16 C2 13 1 11 0 6 Z" fill="#F5F5F5" stroke="#1A1A1A" stroke-width="4" transform="rotate(-14)"/>
+        <path d="M96 6 C98 -14 80 -26 62 -22 C48 -19 42 -6 48 4 C54 14 70 20 84 16 C94 13 95 11 96 6 Z" fill="#F5F5F5" stroke="#1A1A1A" stroke-width="4" transform="rotate(14)"/>
+      </g>
+    </g>
+
+    <!-- WELCOME text: hard blue shadow + white fill + ink outline, comic wobble -->
+    <g transform="translate(450 132)">
+      <g transform="skewX(-6)">
+        <animateTransform attributeName="transform" type="scale" values="0.3;1.12;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.35 1.35;0.35 0 0.6 1"/>
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="-1.4;1.4;-1.4" dur="4.5s" begin="1s" repeatCount="indefinite"/>
+          <text x="5" y="8" text-anchor="middle" font-family="'Arial Black','Arial Bold',Gadget,sans-serif" font-weight="900" font-size="86" fill="#0D47A1">Welcome</text>
+          <text x="0" y="0" text-anchor="middle" font-family="'Arial Black','Arial Bold',Gadget,sans-serif" font-weight="900" font-size="86" fill="#F5F5F5" stroke="#1A1A1A" stroke-width="2.5" paint-order="stroke">Welcome</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- THWIP! starburst top-right -->
+    <g transform="translate(760 66) rotate(12)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.25;1" keyTimes="0;0.65;1" dur="0.45s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.35 1.4;0.35 0 0.6 1" additive="sum"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0" begin="0.9s" dur="0.45s" additive="sum"/>
+      <g>
+        <animate attributeName="opacity" values="1;1;0.85;1" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+        <path d="M0 -46 L12 -14 L46 -22 L20 2 L44 26 L8 18 L0 50 L-8 18 L-44 26 L-20 2 L-46 -22 L-12 -14 Z" fill="#F5C518" stroke="#1A1A1A" stroke-width="3.5"/>
+        <text x="0" y="7" text-anchor="middle" font-family="'Arial Black','Arial Bold',Gadget,sans-serif" font-weight="900" font-size="19" fill="#1A1A1A" transform="rotate(-10)">THWIP!</text>
+      </g>
+    </g>
+
+    <!-- spider dropping on silk thread from top -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 -80" to="0 0" dur="1s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.4 1.15"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-7;7;-7" dur="3.8s" begin="1.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <line x1="150" y1="18" x2="150" y2="86" stroke="#F5F5F5" stroke-width="1.6" opacity="0.85"/>
+        <g stroke="#1A1A1A" stroke-width="2.6" fill="none" stroke-linecap="round">
+          <path d="M150 96 C138 98 128 106 124 118"/>
+          <path d="M150 100 C136 104 128 114 126 128"/>
+          <path d="M150 104 C138 110 132 122 132 136"/>
+          <path d="M150 106 C144 114 142 126 144 140"/>
+          <path d="M150 96 C162 98 172 106 176 118"/>
+          <path d="M150 100 C164 104 172 114 174 128"/>
+          <path d="M150 104 C162 110 168 122 168 136"/>
+          <path d="M150 106 C156 114 158 126 156 140"/>
+        </g>
+        <ellipse cx="150" cy="104" rx="9" ry="12" fill="#1A1A1A"/>
+        <circle cx="150" cy="92" r="5.5" fill="#1A1A1A"/>
+        <circle cx="147" cy="90.5" r="1.4" fill="#F5F5F5"/>
+        <circle cx="153" cy="90.5" r="1.4" fill="#F5F5F5"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- panel ink outline -->
+  <rect x="22" y="18" width="856" height="194" rx="14" fill="none" stroke="#1A1A1A" stroke-width="6"/>
+</svg>
