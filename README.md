@@ -2,17 +2,21 @@
      DHARINEESH V — GITHUB PROFILE README (Spider-Man Edition)
 ================================================================== -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D47A1,26:0D47A1,36:D62828,64:D62828,74:0D47A1,100:0D47A1&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=32&desc=Your%20Friendly%20Neighborhood%20Developer&descAlign=50&descAlignY=52&descSize=16&animation=fadeIn&stroke=1A1A1A&strokeWidth=3" width="100%"/>
+</div>
+
 <!-- SPIDER-MAN WELCOME PANEL (custom animated comic banner — upload assets/welcome.svg + assets/web-divider.svg) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/welcome.svg" alt="Welcome to the Spider-Verse" width="76%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=FFD75E&center=true&vCenter=true&random=false&width=880&lines=Hey%21%20I%27m%20Dharineesh%20%F0%9F%95%B7%EF%B8%8F%3BYour%20friendly%20neighborhood%20developer%20%F0%9F%95%B8%EF%B8%8F%3BWeaving%20AI-powered%20web%20apps%3BJava%20Full-Stack%20Web-Slinger%20%F0%9F%92%BB%3BLLM%20%26%20GenAI%20Engineer%20%F0%9F%A4%96%3BWith%20great%20code%20comes%20great%20responsibility%20%E2%9A%A1%3BTurning%20coffee%20into%20THWIPs%20%E2%98%95" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/main-typing.svg" alt="Typing SVG"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hero_For_Hire-SDE_%2F_AI_Engineer_Roles-D62828?style=for-the-badge&labelColor=1A1A1A" alt="Status"/>
+  <img src="https://img.shields.io/badge/Hero_For_Hire-%2F%2F_SDE_%2F_AI_Engineer_Roles-D62828?style=for-the-badge&labelColor=1A1A1A" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Web+Sightings&color=D62828&style=for-the-badge&labelColor=1A1A1A" alt="Web Sightings"/>
   <img src="https://img.shields.io/github/followers/Dharineesh-17?label=Spider-Fans&style=for-the-badge&color=3E7BD6&labelColor=1A1A1A" alt="Spider-Fans"/>
 </div>
@@ -20,7 +24,7 @@
 <br/>
 
 <!-- ========================= THE ORIGIN STORY ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=D62828&center=false&vCenter=true&random=false&width=459&lines=%F0%9F%95%B7%EF%B8%8F%20The%20Origin%20Story" alt="🕷️ The Origin Story"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/origin-story.svg" alt="🕷️ The Origin Story"/>
 
 > *"With great code comes great responsibility."* — Uncle Ben, probably
 
@@ -36,7 +40,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 <br/>
 
 <!-- ========================= GREATEST SAVES ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=3E7BD6&center=false&vCenter=true&random=false&width=405&lines=%F0%9F%8C%86%20Greatest%20Saves" alt="🌆 Greatest Saves"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/greatest-saves.svg" alt="🌆 Greatest Saves"/>
 
 <div align="center">
   <a href="https://github.com/Dharineesh-17/Lostlink">
@@ -57,10 +61,10 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 </p>
 
 <!-- ========================= WEB OF SKILLS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=D62828&center=false&vCenter=true&random=false&width=405&lines=%F0%9F%95%B8%EF%B8%8F%20Web%20of%20Skills" alt="🕸️ Web of Skills"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/web-of-skills.svg" alt="🕸️ Web of Skills"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&duration=2000&pause=600&color=D62828&center=true&vCenter=true&random=false&width=360&repeat=false&lines=The%20Mask%20%E2%80%94%20Frontend" alt="The Mask — Frontend"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/the-mask.svg" alt="The Mask — Frontend"/>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
@@ -70,7 +74,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&duration=2000&pause=600&color=3E7BD6&center=true&vCenter=true&random=false&width=480&repeat=false&lines=Web-Shooters%20%E2%80%94%20Backend%20%26%20API" alt="Web-Shooters — Backend and API"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/web-shooters.svg" alt="Web-Shooters — Backend and API"/>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -78,7 +82,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&duration=2000&pause=600&color=FFD75E&center=true&vCenter=true&random=false&width=470&repeat=false&lines=Memory%20Cartridges%20%E2%80%94%20Databases" alt="Memory Cartridges — Databases"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/memory-cartridges.svg" alt="Memory Cartridges — Databases"/>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -86,7 +90,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&duration=2000&pause=600&color=D62828&center=true&vCenter=true&random=false&width=420&repeat=false&lines=The%20Spider-Sense%20%E2%80%94%20AI%20%26%20LLM" alt="The Spider-Sense — AI and LLM"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/the-spider-sense-ai.svg" alt="The Spider-Sense — AI and LLM"/>
   <p>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTEgNi4wNDYgNi4wNDYgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE1Ljk4NSA1Ljk4NSAwIDAgMC0zLjk5OCAyLjkgNi4wNDYgNi4wNDYgMCAwIDAgLjc0MyA3LjA5NyA1Ljk4IDUuOTggMCAwIDAgLjUxIDQuOTExIDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE1IDIuOUE1Ljk4NSA1Ljk4NSAwIDAgMCAxMy4yNiAyNGE2LjA1NiA2LjA1NiAwIDAgMCA1Ljc3Mi00LjIwNiA1Ljk5IDUuOTkgMCAwIDAgMy45OTctMi45IDYuMDU2IDYuMDU2IDAgMCAwLS43NDctNy4wNzN6TTEzLjI2IDIyLjQzYTQuNDc2IDQuNDc2IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxIDQuNzc5LTIuNzU4YS43OTUuNzk1IDAgMCAwIC4zOTItLjY4MXYtNi43MzdsMi4wMiAxLjE2OGEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NHpNMy42IDE4LjMwNGE0LjQ3IDQuNDcgMCAwIDEtLjUzNS0zLjAxNGwuMTQyLjA4NSA0Ljc4MyAyLjc1OWEuNzcxLjc3MSAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZ6TTIuMzQgNy44OTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjYtMS45NzNWMTEuNmEuNzY2Ljc2NiAwIDAgMCAuMzg4LjY3Nmw1LjgxNSAzLjM1NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTUuODMzLTMuMzg3TDE1LjExOSA3LjJhLjA3Ni4wNzYgMCAwIDEgLjA3MSAwbDQuODMgMi43OTFhNC40OTQgNC40OTQgMCAwIDEtLjY3NiA4LjEwNXYtNi42NjhhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMS0zLjAyM2wtLjE0MS0uMDg1LTQuNzc0LTIuNzgyYS43NzYuNzc2IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIwM1Y2Ljg3MmEuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnpNOC4zMDcgMTIuODYzTDYuMjg4IDExLjdhLjA4LjA4IDAgMCAxLS4wMzgtLjA1N1Y2LjA3NGE0LjUgNC41IDAgMCAxIDcuMzc1LTMuNDUzbC0uMTQyLjA4TDguNzA0IDUuNDZhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk5LTIuMzY2bDIuNjA2LTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNjA3IDEuNTAxLTIuNjA2LTEuNXoiLz48L3N2Zz4%3D&logoColor=white" alt="OpenAI"/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -95,7 +99,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
     <img src="https://img.shields.io/badge/LLM_Agents-1A1A1A?style=for-the-badge&logo=openai&logoColor=3E7BD6" alt="LLM Agents"/>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=20&duration=2000&pause=600&color=3E7BD6&center=true&vCenter=true&random=false&width=450&repeat=false&lines=The%20Sky%20Web%20%E2%80%94%20Cloud%20%26%20DevOps" alt="The Sky Web — Cloud and DevOps"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/sky-web.svg" alt="The Sky Web — Cloud and DevOps"/>
   <p>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgOC41YTExLjUgMTEuNSAwIDAgMCAxNiAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcuNCA0LjZsNSAzLjItNC43IDEuOHoiLz48L3N2Zz4%3D&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjYgMS41TDUuMyAxNy45aDVMMTguNCAxLjVoLTQuOHpNNS45IDIwLjNMMy43IDI0aDE3bDIuMi0zLjdINS45eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Azure"/>
@@ -109,7 +113,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 <br/>
 
 <!-- ========================= SPIDER-VERSE STATS ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=3E7BD6&center=false&vCenter=true&random=false&width=459&lines=%F0%9F%8C%8C%20Spider-Verse%20Stats" alt="🌌 Spider-Verse Stats"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/spider-verse-stats.svg" alt="🌌 Spider-Verse Stats"/>
 
 <br/>
 
@@ -133,7 +137,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 <br/>
 
 <!-- ========================= WEB-WARRIOR TRAINING ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=D62828&center=false&vCenter=true&random=false&width=513&lines=%F0%9F%8E%AF%20Web-Warrior%20Training" alt="🎯 Web-Warrior Training"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/web-warrior-training.svg" alt="🎯 Web-Warrior Training"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dharancode?theme=dark&font=Pavanam&ext=heatmap&border=D62828&radius=16&width=600" alt="LeetCode"/>
@@ -142,7 +146,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 <br/>
 
 <!-- ========================= SPIDER-SENSE ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=3E7BD6&center=false&vCenter=true&random=false&width=648&lines=%E2%9A%A1%20Spider-Sense%20%E2%80%94%20What%27s%20Tingling" alt="⚡ Spider-Sense — What's Tingling"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/spider-sense.svg" alt="⚡ Spider-Sense — What's Tingling"/>
 
 <table>
   <tr>
@@ -197,7 +201,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 <br/>
 
 <!-- ========================= THWIP! COMIC RELIEF ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=D62828&center=false&vCenter=true&random=false&width=513&lines=%F0%9F%98%82%20THWIP%21%20Comic%20Relief" alt="😂 THWIP! Comic Relief"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/thwip-comic-relief.svg" alt="😂 THWIP! Comic Relief"/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?borderColor=D62828&bgColor=0D1117&borderRadius=16" alt="Random Dev Joke"/>
@@ -210,7 +214,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 </p>
 
 <!-- ========================= SIGNAL THE SPIDER ========================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&duration=2000&pause=600&color=3E7BD6&center=false&vCenter=true&random=false&width=405&lines=%F0%9F%93%A1%20Signal%20the%20Spider" alt="📡 Signal the Spider"/>
+<img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/popups/signal-the-spider.svg" alt="📡 Signal the Spider"/>
 
 <div align="center">
   <a href="https://y1yss5n8e5x0-deploy.space-z.ai" target="_blank">
