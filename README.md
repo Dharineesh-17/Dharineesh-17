@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hero_For_Hire-%2F_SDE_%2F_AI_Engineer_Roles-D62828?style=for-the-badge&labelColor=1A1A1A" alt="Status"/>
+  <img src="https://img.shields.io/badge/Hero_For_Hire-SDE_%2F_AI_Engineer_Roles-D62828?style=for-the-badge&labelColor=1A1A1A" alt="Status"/>
   <img src="https://komarev.com/ghpvc/?username=Dharineesh-17&label=Web+Sightings&color=D62828&style=for-the-badge&labelColor=1A1A1A" alt="Web Sightings"/>
   <img src="https://img.shields.io/github/followers/Dharineesh-17?label=Spider-Fans&style=for-the-badge&color=3E7BD6&labelColor=1A1A1A" alt="Spider-Fans"/>
 </div>
