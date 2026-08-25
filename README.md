@@ -6,6 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,15:203A43,30:2C5364,45:00ADB5,60:2C5364,75:203A43,90:0F2027&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=32&desc=Java%20Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLM%20Developer&descAlign=50&descAlignY=52&descSize=15&animation=fadeIn&stroke=00ADB5&strokeWidth=2" width="100%"/>
 </div>
 
+<!-- WELCOME POP-UP (custom animated banner — upload assets/welcome.svg to your profile repo) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/welcome.svg" alt="Welcome to my GitHub universe" width="74%"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=600&color=00ADB5&center=true&vCenter=true&random=false&width=720&lines=Hey+there!+I'm+Dharineesh+%F0%9F%91%8B;Building+AI-Powered+Web+Apps+%E2%9D%A4%EF%B8%8F;Java+Full-Stack+Developer+%F0%9F%92%BB;LLM+%26+GenAI+Engineer+%F0%9F%A4%96;Turning+coffee+into+clean+code+%E2%98%95;Always+shipping%2C+always+learning+%E2%9A%A1" alt="Typing SVG"/>
 </div>
@@ -21,14 +26,14 @@
 <!-- ========================= ABOUT ME ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=About+Me" alt="About Me"/>
 
-I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence & Data Science** at **VSB Engineering College, Karur**. I love building end-to-end products that blend solid engineering with intelligent systems: from Java microservices backends to LLM-powered workflows that actually ship.
+I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence & Data Science** at **VSB Engineering College, Karur** — and a **Cognizant Digital Nurture 5.0 Java FSE** trainee. I love building end-to-end products that blend solid engineering with intelligent systems: from Java microservices backends to LLM-powered workflows that actually ship.
 
 - 🔭 **Currently building:** multi-agent LLM systems & RAG pipelines for real-world automation
 - 🌱 **Learning:** Data Structures & Algorithms (daily LeetCode) + AI agent orchestration
-- 💬 **Ask me about:** Java, Spring Boot, Angular, Python, and AI
-- 🎓 **Credentials:** Java Full Stack Engineering
+- 💬 **Ask me about:** Java, Spring Boot, React, Python, and GenAI
+- 🎓 **Credentials:** Cognizant Digital Nurture 5.0 · Java Full Stack Engineering
 - ☕ **Fun fact:** I turn coffee into clean, scalable code
-- 🌐 **Portfolio:** [Click here](https://dharineesh-17.space-z.ai)
+- 🌐 **Portfolio:** [y1yss5n8e5x0-deploy.space-z.ai](https://y1yss5n8e5x0-deploy.space-z.ai)
 
 <br/>
 
