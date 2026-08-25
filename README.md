@@ -21,7 +21,7 @@
 <!-- ========================= ABOUT ME ========================= -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&color=00ADB5&center=false&vCenter=true&random=false&width=200&lines=About+Me" alt="About Me"/>
 
-I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence & Data Science** at **VSB Engineering College, Karur** — and a **Cognizant Digital Nurture 5.0 Java FSE** trainee. I love building end-to-end products that blend solid engineering with intelligent systems: from Java microservices backends to LLM-powered workflows that actually ship.
+I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence & Data Science** at **VSB Engineering College, Karur**. I love building end-to-end products that blend solid engineering with intelligent systems: from Java microservices backends to LLM-powered workflows that actually ship.
 
 - 🔭 **Currently building:** multi-agent LLM systems & RAG pipelines for real-world automation
 - 🌱 **Learning:** Data Structures & Algorithms (daily LeetCode) + AI agent orchestration
