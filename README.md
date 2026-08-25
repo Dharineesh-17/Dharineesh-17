@@ -25,7 +25,7 @@ I'm **Dharineesh V**, a passionate developer pursuing **Artificial Intelligence 
 
 - 🔭 **Currently building:** multi-agent LLM systems & RAG pipelines for real-world automation
 - 🌱 **Learning:** Data Structures & Algorithms (daily LeetCode) + AI agent orchestration
-- 💬 **Ask me about:** Java, Spring Boot, React, Python, and GenAI
+- 💬 **Ask me about:** Java, Spring Boot, Angular, Python, and AI
 - 🎓 **Credentials:** Cognizant Digital Nurture 5.0 · Java Full Stack Engineering
 - ☕ **Fun fact:** I turn coffee into clean, scalable code
 - 🌐 **Portfolio:** [Click here](https://dharineesh-17.space-z.ai)
