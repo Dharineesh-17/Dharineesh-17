@@ -53,7 +53,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/web-divider.svg" width="82%" alt="web divider"/>
+  <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/web-divider.svg" width="82%" alt="web-divider"/>
 </p>
 
 <!-- ========================= WEB OF SKILLS ========================= -->
