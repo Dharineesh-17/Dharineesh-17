@@ -2,10 +2,6 @@
      DHARINEESH V — GITHUB PROFILE README (Spider-Man Edition)
 ================================================================== -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D47A1,26:0D47A1,36:D62828,64:D62828,74:0D47A1,100:0D47A1&text=Dharineesh%20V&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=32&desc=Your%20Friendly%20Neighborhood%20Developer&descAlign=50&descAlignY=52&descSize=16&animation=fadeIn&stroke=1A1A1A&strokeWidth=3" width="100%"/>
-</div>
-
 <!-- SPIDER-MAN WELCOME PANEL (custom animated comic banner — upload assets/welcome.svg + assets/web-divider.svg) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dharineesh-17/Dharineesh-17/main/assets/welcome.svg" alt="Welcome to the Spider-Verse" width="76%"/>
