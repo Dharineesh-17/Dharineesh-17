@@ -31,7 +31,7 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 - 💬 **Ask me about:** Java, Spring Boot, React, Python & GenAI
 - 🎓 **Credentials:** Cognizant Digital Nurture 5.0 · Java Full Stack Engineering
 - ☕ **Fuel source:** coffee → code (conversion rate: near-infinite)
-- 🌐 **The home web:** [my portfolio](https://y1yss5n8e5x0-deploy.space-z.ai)
+- 🌐 **The home web:** [my portfolio](https://dharineesh-17.space-z.ai/)
 
 <br/>
 
