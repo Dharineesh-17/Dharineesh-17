@@ -29,7 +29,6 @@ I'm **Dharineesh V** — just a kid from Karur with a knack for weaving code int
 - 🕸️ **Currently weaving:** multi-agent LLM systems & RAG pipelines for real-world automation
 - 🎯 **Training regime:** daily LeetCode grind + AI agent orchestration
 - 💬 **Ask me about:** Java, Spring Boot, React, Python & GenAI
-- 🎓 **Credentials:** Cognizant Digital Nurture 5.0 · Java Full Stack Engineering
 - ☕ **Fuel source:** coffee → code (conversion rate: near-infinite)
 - 🌐 **The home web:** [my portfolio](https://dharineesh-17.space-z.ai/)
 
